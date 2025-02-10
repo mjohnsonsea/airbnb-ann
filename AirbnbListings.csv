@@ -1,0 +1,1719 @@
+listing_id,neighborhood,host_since,superhost,host_acceptance_rate,host_total_listings,room_type,accommodates,bathrooms,bedrooms,beds,min_nights,total_reviews,avg_rating,price
+4,Union Station,5/2/2010,F,,4,Entire home/apt,4,1 bath,1,3,31,15,4.77,645
+6,Shaw,10/31/2009,F,0.91,8,Entire home/apt,4,1 bath,2,3,31,196,4.35,80
+9,Dupont Circle,6/20/2011,F,0,1,Entire home/apt,2,1 bath,1,1,31,31,4.83,135
+11,Shaw,10/31/2009,F,0.91,8,Entire home/apt,4,1 bath,2,2,31,188,4.3,80
+14,Shaw,12/14/2011,T,0.86,1,Entire home/apt,2,1 bath,1,1,2,164,4.84,185
+15,Dupont Circle,12/22/2011,F,1,1,Entire home/apt,4,1 bath,1,3,3,70,4.89,149
+16,Dupont Circle,7/1/2011,F,0.46,12,Entire home/apt,4,1 bath,2,3,5,19,4.56,198
+17,Union Station,1/25/2012,F,,6,Entire home/apt,3,2 baths,2,2,90,1,0,129
+19,Capitol Hill,9/1/2011,T,0.73,4,Entire home/apt,3,1 bath,1,1,2,152,4.78,184
+20,Capitol Hill,3/12/2012,T,0.98,3,Entire home/apt,4,1 bath,1,2,3,268,4.79,200
+21,Capitol Hill,3/30/2012,T,0.91,7,Entire home/apt,2,1 bath,,1,2,578,4.88,153
+22,Capitol Hill,9/21/2009,T,0.96,2,Entire home/apt,5,2 baths,2,3,3,374,4.91,135
+23,Union Station,4/29/2012,T,1,1,Entire home/apt,2,1 bath,1,1,2,917,4.88,100
+24,Capitol Hill,6/8/2012,F,0.82,3,Entire home/apt,4,1 bath,1,2,3,253,4.86,130
+25,Capitol Hill,6/17/2012,F,0.67,2,Entire home/apt,2,1 bath,1,1,31,31,4.9,145
+27,Dupont Circle,6/28/2012,F,1,3,Entire home/apt,2,1 bath,,1,1,113,4.76,120
+33,Union Station,11/12/2011,T,0.98,3,Entire home/apt,2,1 bath,1,1,2,723,4.87,125
+35,Dupont Circle,11/22/2012,F,,5,Entire home/apt,2,1 bath,1,1,180,24,4.91,140
+36,Shaw,10/31/2009,F,0.91,8,Entire home/apt,2,1 bath,1,1,31,164,4.22,75
+39,Capitol Hill,1/5/2013,F,,1,Entire home/apt,3,1 bath,1,1,31,18,4.83,120
+43,Shaw,11/29/2012,F,0.95,10,Entire home/apt,10,2.5 baths,4,5,3,229,4.62,564
+44,Foggy Bottom,1/21/2013,T,0.67,3,Entire home/apt,5,2 baths,3,3,31,168,4.91,165
+45,Foggy Bottom,1/21/2013,T,0.67,3,Entire home/apt,5,2 baths,3,2,31,128,4.91,180
+47,Dupont Circle,1/27/2012,T,1,7,Entire home/apt,4,2 baths,3,3,31,94,4.83,195
+48,Union Station,11/29/2012,F,0.95,10,Entire home/apt,9,4 baths,4,5,31,56,4.44,500
+49,Shaw,4/4/2012,T,1,1,Entire home/apt,4,1 bath,,1,2,435,4.94,168
+50,Capitol Hill,11/8/2012,F,0.6,8,Entire home/apt,6,2 baths,3,3,31,10,4.2,175
+53,Union Station,4/21/2013,T,0.99,2,Entire home/apt,8,2 baths,2,5,2,268,4.75,197
+54,Dupont Circle,2/5/2019,F,,6,Entire home/apt,3,1 bath,2,2,28,45,4.42,160
+59,Union Station,7/28/2013,F,0.87,4,Entire home/apt,8,3.5 baths,4,5,2,75,4.77,297
+61,Dupont Circle,8/23/2013,T,0.95,5,Entire home/apt,2,1 bath,1,1,30,134,4.94,171
+62,Union Station,9/2/2013,F,1,14,Entire home/apt,4,1 bath,1,2,2,350,4.77,116
+63,Shaw,9/5/2013,T,1,1,Entire home/apt,4,1 bath,1,2,2,433,4.92,150
+65,Union Station,9/14/2013,T,1,1,Entire home/apt,2,1 bath,,1,2,268,4.91,107
+67,Union Station,10/3/2013,F,1,2,,6,2.5 baths,3,3,3,3,5,225
+72,Shaw,7/24/2012,F,0.25,1,Entire home/apt,2,1 bath,1,1,31,23,4.73,132
+73,Union Station,10/21/2013,T,1,1,Private room,3,1 private bath,2,2,2,125,4.92,150
+78,Union Station,9/23/2013,T,0.99,4,Entire home/apt,4,1 bath,2,2,2,191,4.91,203
+80,Capitol Hill,11/27/2013,T,1,30,Entire home/apt,4,1 bath,2,2,31,26,4.85,306
+81,Capitol Hill,11/27/2013,T,1,30,Entire home/apt,4,1 bath,1,2,31,25,4.88,270
+82,Foggy Bottom,12/17/2013,F,,1,Entire home/apt,4,1 bath,,2,31,35,4.18,93
+83,Union Station,4/21/2013,T,0.99,2,Entire home/apt,5,2.5 baths,2,3,2,151,4.85,166
+87,Georgetown,1/18/2014,F,,2,Entire home/apt,4,1.5 baths,2,2,31,97,4.9,195
+91,Dupont Circle,5/18/2009,F,0.99,164,Entire home/apt,4,1 bath,1,1,31,93,4.65,120
+92,Capitol Hill,1/25/2014,T,1,3,Entire home/apt,4,1 bath,1,2,3,345,4.87,155
+94,Georgetown,1/30/2014,F,0.82,3,Entire home/apt,5,1 bath,1,3,3,130,4.73,185
+97,Dupont Circle,2/5/2014,F,1,12,Entire home/apt,2,1 bath,,1,31,410,4.57,165
+98,Capitol Hill,2/8/2014,T,1,1,Entire home/apt,4,1 bath,1,3,3,346,4.89,200
+101,Capitol Hill,11/27/2013,T,1,30,Entire home/apt,4,1 bath,,2,31,70,4.91,206
+104,Shaw,10/31/2013,F,1,2,Entire home/apt,6,2.5 baths,3,3,31,176,4.94,497
+108,Georgetown,6/6/2012,F,0.49,2,,6,1.5 baths,2,2,4,64,4.78,244
+109,Capitol Hill,8/29/2013,T,0.96,2,Entire home/apt,4,1 bath,1,1,1,127,4.7,198
+110,Dupont Circle,3/5/2012,F,1,23,Entire home/apt,4,1 bath,1,2,31,392,4.72,170
+113,Capitol Hill,3/22/2014,T,0.79,4,Entire home/apt,4,1.5 baths,2,2,4,15,4.73,215
+118,Shaw,5/3/2014,F,0.98,1,Entire home/apt,4,1 bath,1,2,3,272,4.71,168
+120,Union Station,5/31/2014,F,1,1,Entire home/apt,2,1 bath,1,1,2,91,4.96,146
+121,Union Station,6/13/2014,T,0.97,4,Entire home/apt,4,1 bath,1,2,2,557,4.9,150
+122,Union Station,11/29/2013,F,0.68,3,Entire home/apt,3,1 bath,,2,7,36,4.74,109
+123,Shaw,4/18/2014,F,0.97,1,Entire home/apt,2,1 bath,1,1,3,147,4.77,152
+124,Capitol Hill,7/18/2014,T,1,1,Entire home/apt,4,1 bath,1,2,3,167,4.91,119
+127,Georgetown,7/20/2014,T,0.95,1,Entire home/apt,4,1 bath,,2,2,272,4.85,140
+129,Union Station,11/29/2012,F,0.95,10,Entire home/apt,4,1 bath,1,3,31,60,4.6,120
+130,Capitol Hill,12/16/2010,T,0.97,2,Entire home/apt,2,1 bath,1,1,31,104,4.93,164
+133,Dupont Circle,8/23/2013,T,0.95,5,Entire home/apt,2,1 bath,1,1,14,176,4.93,145
+134,Shaw,5/18/2009,F,0.99,164,Entire home/apt,5,1 bath,1,3,31,93,4.72,110
+135,Dupont Circle,8/18/2014,T,1,3,Entire home/apt,2,1 bath,1,1,60,53,4.87,126
+137,Georgetown,8/30/2014,T,0.78,2,Entire home/apt,2,1 bath,1,1,3,91,4.79,250
+140,Capitol Hill,9/7/2014,T,1,2,Entire home/apt,5,1.5 baths,2,2,3,448,4.9,225
+141,Dupont Circle,9/9/2014,T,0.92,2,Entire home/apt,2,1 bath,1,1,3,384,4.9,110
+147,Dupont Circle,1/15/2011,F,1,4,Entire home/apt,3,1 bath,1,2,3,505,4.74,140
+149,Georgetown,10/12/2014,F,0.63,1,Entire home/apt,3,1 bath,1,2,3,193,4.81,145
+151,Dupont Circle,3/12/2012,F,,2,Entire home/apt,3,1 bath,1,1,31,44,4.88,99
+155,Georgetown,4/8/2013,F,0.67,32,Entire home/apt,6,2 baths,3,3,31,1,5,854
+158,Georgetown,1/7/2014,F,,1,Entire home/apt,6,2 baths,2,2,60,1,5,180
+160,Union Station,10/19/2014,T,0.97,7,Entire home/apt,4,1 bath,1,2,1,842,4.67,198
+161,Union Station,3/30/2013,T,1,5,Entire home/apt,4,1 bath,1,2,2,356,4.95,165
+162,Union Station,11/13/2014,T,0.95,1,Entire home/apt,2,1 bath,1,1,4,53,4.87,107
+163,Capitol Hill,11/27/2013,T,1,30,Entire home/apt,4,1 bath,1,2,31,65,4.77,140
+164,Capitol Hill,11/27/2013,T,1,30,Entire home/apt,4,1 bath,1,2,31,31,4.97,224
+166,Union Station,6/24/2014,T,1,3,Entire home/apt,5,1 bath,1,3,1,233,4.74,182
+167,Dupont Circle,8/18/2014,T,1,3,Entire home/apt,2,1 bath,,1,31,48,4.91,127
+169,Capitol Hill,11/21/2014,F,0,2,Entire home/apt,2,1 bath,1,1,31,15,4.5,180
+170,Capitol Hill,11/22/2014,T,1,1,Entire home/apt,4,1 bath,2,2,3,247,4.97,199
+172,Capitol Hill,9/19/2012,T,0.99,1,Entire home/apt,2,1 bath,1,1,2,546,4.92,128
+173,Capitol Hill,12/16/2014,T,1,3,Entire home/apt,4,1 bath,1,2,31,7,5,275
+176,Union Station,3/1/2014,T,1,2,Entire home/apt,2,1 bath,1,1,31,422,4.91,110
+178,Georgetown,5/18/2009,F,0.99,164,,8,3.5 baths,4,5,31,7,4.86,333
+179,Foggy Bottom,1/1/2015,T,1,1,Entire home/apt,2,1 bath,1,1,31,26,4.88,67
+181,Capitol Hill,12/16/2014,T,1,3,Entire home/apt,4,1 bath,1,2,31,32,4.94,240
+182,Foggy Bottom,4/20/2014,F,,1,Entire home/apt,1,1 bath,1,2,180,43,4.71,120
+184,Capitol Hill,12/16/2014,T,1,3,Entire home/apt,6,1 bath,2,3,31,37,4.92,295
+185,Union Station,1/11/2015,T,1,2,Entire home/apt,5,2 baths,2,2,2,66,4.89,261
+186,Union Station,1/11/2015,T,1,2,Entire home/apt,3,1 bath,1,1,2,93,4.88,164
+188,Georgetown,10/21/2014,T,1,9,Entire home/apt,2,1 bath,1,1,31,459,4.85,200
+190,Dupont Circle,1/27/2012,T,1,7,Entire home/apt,2,1.5 baths,1,1,31,123,4.85,195
+192,Union Station,10/7/2014,T,1,3,Entire home/apt,2,1 bath,,1,2,533,4.86,91
+194,Georgetown,10/21/2014,T,1,9,Entire home/apt,2,1 bath,2,1,1,420,4.88,192
+196,Shaw,11/27/2013,T,1,2,Entire home/apt,2,1 bath,1,1,2,38,4.94,175
+197,Georgetown,2/10/2015,F,0.98,2,Entire home/apt,4,1 bath,1,2,2,194,4.87,148
+198,Georgetown,2/16/2015,F,0,2,Entire home/apt,3,1 bath,1,2,31,53,4.47,125
+199,Shaw,12/29/2014,T,0.98,1,Entire home/apt,4,1 bath,,2,3,247,4.85,123
+200,Foggy Bottom,3/5/2015,T,0.73,6,Entire home/apt,3,1 bath,,2,31,377,4.94,90
+203,Union Station,3/14/2015,F,,3,Entire home/apt,2,1 bath,1,2,31,35,4.97,175
+204,Shaw,11/20/2013,T,1,3,Entire home/apt,4,1 bath,1,1,2,618,4.92,155
+206,Capitol Hill,3/27/2015,F,1,3,Entire home/apt,4,1 bath,2,2,31,236,4.85,150
+208,Union Station,9/23/2013,T,0.99,4,Entire home/apt,6,2.5 baths,3,3,2,89,4.96,531
+210,Union Station,6/24/2014,T,1,3,Entire home/apt,4,1 bath,1,3,1,262,4.85,180
+211,Georgetown,4/5/2015,T,1,1,Entire home/apt,2,1 bath,1,1,2,114,4.98,196
+215,Capitol Hill,4/19/2015,F,0.33,1,Entire home/apt,14,4.5 baths,4,6,7,13,4.92,395
+221,Capitol Hill,7/28/2013,F,0.5,1,Entire home/apt,2,1.5 baths,1,1,31,134,5,115
+223,Capitol Hill,10/22/2013,T,0.96,1,Entire home/apt,6,2.5 baths,3,3,3,95,4.93,364
+226,Shaw,11/27/2013,T,1,2,Entire home/apt,6,3.5 baths,3,3,3,26,5,611
+228,Georgetown,5/14/2012,T,0.99,3,Entire home/apt,3,1 bath,1,2,2,187,4.87,80
+229,Capitol Hill,5/22/2015,T,0.86,3,Entire home/apt,10,3.5 baths,3,4,2,49,4.92,340
+230,Capitol Hill,5/18/2009,F,0.99,164,Entire home/apt,2,1 bath,1,2,1,40,4.9,10
+231,Shaw,1/13/2013,F,,1,Entire home/apt,3,1 bath,1,1,31,1,5,130
+232,Georgetown,1/13/2015,F,0,1,Entire home/apt,2,1 bath,,1,31,1,4,125
+233,Capitol Hill,9/25/2014,F,,1,Entire home/apt,1,1 bath,1,1,31,1,4,500
+234,Union Station,11/21/2014,F,0.93,2,Entire home/apt,6,2.5 baths,3,4,2,160,4.83,256
+235,Capitol Hill,6/14/2015,T,1,2,Entire home/apt,3,1 bath,,1,3,366,4.87,142
+236,Capitol Hill,6/14/2015,F,0.93,1,Entire home/apt,2,1 bath,1,1,1,151,4.64,157
+237,Shaw,1/1/2015,T,0.97,3,Entire home/apt,8,4.5 baths,5,5,1,453,4.89,518
+238,Shaw,1/1/2015,T,0.97,3,Entire home/apt,8,1 bath,2,2,1,635,4.84,199
+243,Capitol Hill,3/27/2015,F,1,3,Entire home/apt,5,1 bath,,3,31,64,4.72,56
+244,Capitol Hill,9/17/2014,F,1,3,Entire home/apt,6,1 bath,1,3,2,462,4.5,191
+245,Capitol Hill,7/6/2015,F,,1,Entire home/apt,4,1 bath,2,2,31,95,4.53,159
+247,Union Station,3/31/2014,T,0.99,9,Entire home/apt,4,1 bath,1,1,2,233,4.76,179
+250,Dupont Circle,6/5/2013,F,0.8,1,Entire home/apt,3,1 bath,1,1,31,71,4.96,200
+251,Dupont Circle,3/5/2015,T,0.73,6,Entire home/apt,6,1 bath,2,5,31,381,4.93,130
+252,Dupont Circle,2/19/2015,F,1,16,Entire home/apt,3,1 bath,,2,91,39,4.53,64
+253,Dupont Circle,2/19/2015,F,1,16,Entire home/apt,4,1 bath,1,1,91,21,4.86,87
+255,Georgetown,5/7/2015,T,1,1,Entire home/apt,1,1 bath,1,1,28,59,4.86,100
+256,Shaw,8/2/2015,F,0.78,1,Entire home/apt,2,1.5 baths,1,1,31,119,4.92,224
+259,Dupont Circle,8/10/2015,T,1,7,Entire home/apt,2,1 bath,1,1,31,202,4.79,133
+260,Georgetown,8/10/2015,T,1,7,Entire home/apt,2,1 bath,,1,31,253,4.76,135
+261,Capitol Hill,11/27/2013,T,1,30,Entire home/apt,2,1 bath,1,2,31,53,4.89,178
+264,Foggy Bottom,3/5/2015,T,0.73,6,Entire home/apt,6,1 bath,3,6,31,370,4.91,130
+266,Foggy Bottom,10/25/2013,F,0.5,4,Entire home/apt,2,1 bath,1,1,31,54,4.91,82
+267,Foggy Bottom,6/15/2014,T,0.93,3,Entire home/apt,2,1 bath,1,2,31,3,4.67,157
+268,Dupont Circle,11/27/2013,T,1,30,Entire home/apt,2,1 bath,1,1,31,27,4.7,160
+269,Union Station,10/5/2014,T,1,1,Entire home/apt,6,1 bath,2,2,3,143,4.86,209
+272,Foggy Bottom,9/9/2015,F,,1,Entire home/apt,2,1 bath,1,1,59,168,4.92,112
+275,Dupont Circle,4/15/2018,F,,1,Entire home/apt,2,1 bath,1,1,2,338,4.77,153
+278,Shaw,10/8/2013,T,1,4,Entire home/apt,6,2 baths,2,2,31,109,4.81,128
+282,Foggy Bottom,6/29/2015,T,1,4,Entire home/apt,8,2.5 baths,4,5,3,163,4.95,539
+284,Georgetown,9/17/2015,F,,2,Entire home/apt,8,2 baths,4,4,31,10,4.89,90
+285,Union Station,7/12/2013,T,1,4,Entire home/apt,2,1 bath,1,2,2,246,4.93,129
+287,Georgetown,8/10/2015,T,1,7,Entire home/apt,2,1 bath,,1,31,194,4.82,135
+288,Georgetown,8/10/2015,T,1,7,Entire home/apt,2,1 bath,,1,31,228,4.82,140
+289,Georgetown,8/10/2015,T,1,7,Entire home/apt,2,1 bath,,1,31,236,4.76,148
+290,Dupont Circle,8/10/2015,T,1,7,Entire home/apt,2,1 bath,1,1,3,99,4.8,133
+291,Dupont Circle,8/10/2015,T,1,7,Entire home/apt,2,1 bath,1,1,3,177,4.85,138
+293,Union Station,10/9/2015,F,,1,Entire home/apt,3,1 bath,,2,182,278,4.75,69
+294,Union Station,10/28/2013,F,,1,Entire home/apt,6,2.5 baths,2,2,31,6,5,200
+295,Union Station,10/11/2015,F,1,5,,2,1.5 shared baths,,1,2,94,4.96,108
+296,Georgetown,5/18/2009,F,0.99,164,Entire home/apt,5,2 baths,3,5,31,64,4.62,188
+297,Union Station,10/15/2015,T,0.98,284,Entire home/apt,6,1 bath,2,4,2,242,4.81,249
+298,Union Station,10/15/2015,T,0.98,284,Entire home/apt,6,1 bath,2,3,2,245,4.87,219
+299,Union Station,10/15/2015,T,0.98,284,Entire home/apt,6,1 bath,2,3,3,214,4.94,486
+301,Shaw,8/3/2010,F,0.81,1,Entire home/apt,2,1 bath,1,1,3,112,4.87,125
+302,Capitol Hill,10/25/2015,T,0.98,2,Entire home/apt,2,1 bath,1,1,1,206,4.97,148
+303,Capitol Hill,6/8/2012,F,0.82,3,Entire home/apt,6,2 baths,3,2,31,92,4.87,388
+305,Capitol Hill,4/11/2013,T,0.99,1,Entire home/apt,6,1 bath,2,3,1,559,4.76,209
+306,Union Station,9/23/2013,T,0.99,4,Entire home/apt,10,3.5 baths,5,5,4,147,4.95,475
+307,Dupont Circle,7/3/2013,T,0.99,2,Entire home/apt,3,1.5 baths,1,1,2,254,4.92,298
+308,Capitol Hill,11/1/2015,F,0.94,1,Entire home/apt,4,1 bath,1,3,4,131,4.91,190
+309,Union Station,5/18/2015,F,1,1,Entire home/apt,4,1 bath,1,2,2,181,4.74,109
+310,Capitol Hill,3/22/2014,T,0.79,4,Entire home/apt,5,1 bath,1,3,14,135,4.86,145
+311,Georgetown,1/23/2014,F,0.97,8,Entire home/apt,5,1 bath,2,6,31,104,4.6,85
+312,Union Station,11/27/2013,T,1,30,Entire home/apt,4,1 bath,2,2,31,69,4.77,270
+313,Dupont Circle,10/15/2015,T,0.98,284,Entire home/apt,4,2 baths,2,2,2,185,4.84,210
+315,Foggy Bottom,7/5/2015,F,0.2,9,Entire home/apt,4,1 bath,1,2,31,37,4.7,145
+317,Capitol Hill,3/30/2014,T,0.8,1,Entire home/apt,2,1 bath,1,1,31,21,4.95,90
+320,Capitol Hill,10/19/2013,F,,4,Entire home/apt,4,1 bath,2,1,31,97,4.84,160
+321,Capitol Hill,5/18/2015,F,1,1,Entire home/apt,2,1 bath,1,1,1,6,4.83,141
+324,Capitol Hill,1/8/2013,F,,1,Entire home/apt,4,1.5 baths,2,2,31,1,5,310
+325,Foggy Bottom,12/3/2015,F,,1,Entire home/apt,3,1 bath,1,1,31,2,0,85
+326,Union Station,10/7/2014,T,1,3,Entire home/apt,2,1 bath,,1,2,479,4.9,100
+327,Foggy Bottom,6/9/2015,F,,1,Entire home/apt,2,1 bath,1,1,31,2,4,70
+330,Georgetown,2/10/2015,F,0.98,2,Entire home/apt,4,1 bath,1,2,2,242,4.96,151
+336,Capitol Hill,9/21/2015,F,,2,Entire home/apt,3,1 bath,,2,31,79,4.89,80
+337,Shaw,12/25/2014,F,1,3,Entire home/apt,6,2.5 baths,2,2,2,300,4.75,309
+339,Shaw,9/4/2012,F,0.78,6,Entire home/apt,4,1 bath,1,2,600,136,4.9,120
+341,Dupont Circle,8/1/2015,F,,5,Entire home/apt,2,1 bath,,1,31,51,4.96,95
+346,Union Station,1/7/2016,F,0.33,2,Entire home/apt,3,1 bath,1,2,31,13,4.92,155
+348,Capitol Hill,7/19/2014,T,1,9,Entire home/apt,4,1 bath,1,2,1,490,4.96,209
+349,Union Station,1/12/2016,T,1,1,Entire home/apt,4,1 bath,1,2,3,261,4.97,129
+350,Capitol Hill,1/6/2016,T,1,18,Entire home/apt,2,1 bath,,1,31,55,4.96,112
+351,Capitol Hill,1/6/2016,T,1,18,,4,1 bath,1,2,31,59,4.78,298
+352,Capitol Hill,1/6/2016,T,1,18,Entire home/apt,4,1 bath,1,2,2,74,4.86,214
+353,Capitol Hill,10/11/2015,F,1,1,Entire home/apt,4,1 bath,1,1,2,129,4.91,154
+354,Union Station,10/11/2015,F,1,5,Entire home/apt,8,2.5 baths,3,3,2,89,4.97,587
+355,Capitol Hill,6/15/2014,T,1,3,Entire home/apt,2,1 bath,,1,2,402,4.86,105
+358,Union Station,10/11/2015,F,1,5,Private room,2,1.5 shared baths,,1,2,98,4.96,118
+359,Capitol Hill,9/28/2014,F,0,2,Entire home/apt,2,1 bath,,1,31,1,5,95
+360,Shaw,3/23/2013,F,0.94,2,Entire home/apt,4,1 bath,1,2,1,330,4.92,168
+362,Georgetown,9/10/2014,F,1,6,Entire home/apt,2,1 bath,1,1,31,65,4.88,250
+363,Capitol Hill,2/7/2016,T,0.99,1,Entire home/apt,4,1 bath,1,2,2,322,4.98,185
+365,Foggy Bottom,2/10/2016,F,1,6,Entire home/apt,4,1 bath,1,2,1,478,4.81,146
+366,Capitol Hill,2/10/2016,T,0.99,1,Entire home/apt,2,1 bath,,1,3,297,4.95,151
+368,Capitol Hill,11/27/2013,T,1,30,Entire home/apt,4,1 bath,1,2,31,55,4.87,240
+369,Union Station,6/20/2014,T,1,1,Entire home/apt,2,1 bath,,1,31,116,4.56,65
+370,Union Station,10/11/2015,F,1,5,Private room,2,1 private bath,,1,2,38,4.97,138
+373,Capitol Hill,1/6/2016,T,1,18,Entire home/apt,4,1 bath,1,2,31,25,4.76,561
+377,Capitol Hill,12/23/2015,T,0.74,1,Entire home/apt,6,3.5 baths,4,4,31,41,4.95,200
+378,Georgetown,3/12/2016,F,0.88,1,Entire home/apt,3,1 bath,1,1,31,148,4.82,200
+382,Dupont Circle,6/15/2015,T,0.77,4,Entire home/apt,9,3 baths,4,5,4,20,5,1228
+383,Union Station,3/16/2016,T,1,3,Entire home/apt,4,2.5 baths,2,2,2,216,4.89,221
+384,Foggy Bottom,2/10/2016,F,1,6,Entire home/apt,4,1 bath,1,2,1,320,4.78,152
+385,Foggy Bottom,2/10/2016,F,1,6,Entire home/apt,4,1 bath,1,1,1,360,4.78,185
+387,Capitol Hill,11/27/2013,T,1,30,Entire home/apt,6,1.5 baths,2,3,31,27,4.96,315
+389,Foggy Bottom,5/11/2013,F,,1,Entire home/apt,1,1 bath,,1,31,3,4,200
+390,Capitol Hill,11/27/2013,T,1,30,Entire home/apt,4,1 bath,1,2,31,55,4.78,224
+391,Shaw,1/13/2013,F,,2,Private room,1,1 bath,1,1,31,1,5,100
+394,Dupont Circle,4/27/2013,F,0,5,Entire home/apt,3,1 bath,1,1,31,14,4.77,102
+397,Capitol Hill,4/5/2016,T,1,1,Entire home/apt,3,1 bath,1,1,3,491,4.93,115
+400,Capitol Hill,11/27/2013,T,1,30,Entire home/apt,4,1 bath,,2,31,49,4.84,178
+401,Capitol Hill,11/27/2013,T,1,30,Entire home/apt,2,1 bath,,1,31,46,4.59,178
+402,Capitol Hill,4/24/2012,T,1,1,Entire home/apt,2,1 bath,1,2,3,322,4.97,98
+406,Union Station,5/8/2015,T,0.91,1,Entire home/apt,4,1 bath,1,2,4,70,4.97,200
+407,Capitol Hill,4/18/2016,F,0,1,Entire home/apt,3,1 bath,1,1,31,26,4.81,225
+408,Union Station,4/19/2015,T,1,1,Entire home/apt,6,1.5 baths,3,4,4,87,4.99,412
+409,Capitol Hill,4/20/2016,F,1,2,Entire home/apt,2,1 bath,,1,31,10,5,150
+413,Capitol Hill,9/22/2015,T,1,1,Entire home/apt,2,1 bath,,1,2,172,4.91,170
+415,Capitol Hill,11/27/2013,T,1,30,Entire home/apt,4,1 bath,2,2,31,11,5,350
+416,Dupont Circle,2/15/2013,T,1,1,,4,1 bath,1,1,1,432,4.88,175
+417,Capitol Hill,11/27/2013,T,1,30,Entire home/apt,4,1 bath,1,2,31,9,4.67,230
+418,Capitol Hill,11/27/2013,T,1,30,Entire home/apt,4,1 bath,1,2,31,29,4.9,133
+420,Union Station,5/5/2016,F,,1,Entire home/apt,2,1 bath,1,1,31,90,4.84,80
+421,Georgetown,5/6/2016,F,,4,Entire home/apt,5,2.5 baths,2,3,365,1,4,250
+424,Dupont Circle,2/19/2015,F,1,16,Entire home/apt,5,1 bath,2,2,91,13,4.38,84
+427,Capitol Hill,11/27/2013,T,1,30,Entire home/apt,4,1 bath,1,2,31,47,4.89,201
+428,Georgetown,5/18/2009,F,0.99,164,Entire home/apt,4,1 bath,2,3,31,78,4.73,143
+429,Union Station,5/19/2016,T,1,1,Entire home/apt,4,1 bath,,3,1,567,4.76,109
+430,Capitol Hill,5/28/2015,F,,1,Entire home/apt,4,1 bath,,2,31,3,4.67,105
+434,Dupont Circle,6/1/2016,T,0.46,3,Entire home/apt,6,1 bath,2,2,31,293,4.94,165
+435,Capitol Hill,4/13/2015,F,,1,Entire home/apt,4,1 bath,2,2,31,2,0,190
+438,Capitol Hill,10/7/2011,F,0.99,19,Entire home/apt,6,2.5 baths,2,3,31,219,4.84,263
+439,Capitol Hill,10/7/2011,F,0.99,19,Entire home/apt,2,1 bath,1,1,4,203,4.7,139
+440,Capitol Hill,10/7/2011,F,0.99,19,Entire home/apt,8,3.5 baths,3,3,31,27,4.85,295
+444,Union Station,2/22/2016,F,,1,Entire home/apt,4,2 baths,3,2,31,72,4.86,150
+445,Capitol Hill,8/17/2015,F,,1,Entire home/apt,8,2.5 baths,4,6,31,5,5,275
+446,Union Station,5/29/2012,T,1,4,Entire home/apt,4,1 bath,,2,1,496,4.94,156
+448,Capitol Hill,2/18/2016,T,1,1,Entire home/apt,3,1 bath,1,2,2,302,4.85,133
+449,Union Station,7/25/2015,T,1,2,Entire home/apt,2,1.5 baths,1,1,5,94,4.99,110
+451,Union Station,6/2/2016,T,0.96,2,Entire home/apt,8,2 baths,3,3,31,33,4.94,189
+453,Shaw,6/11/2014,T,0.92,157,Entire home/apt,5,1.5 baths,2,2,30,6,4,263
+454,Shaw,6/11/2014,T,0.92,157,Entire home/apt,5,1.5 baths,2,2,3,24,4.63,229
+455,Dupont Circle,6/5/2017,F,,3,Entire home/apt,4,1 bath,1,2,31,106,4.8,146
+459,Capitol Hill,7/5/2016,F,1,2,Entire home/apt,6,2.5 baths,3,3,31,31,4.97,375
+461,Shaw,5/3/2016,T,1,3,Entire home/apt,2,1 bath,,1,1,99,4.88,124
+463,Dupont Circle,7/11/2016,F,,2,Entire home/apt,2,1.5 baths,1,1,31,1,0,100
+466,Union Station,5/5/2016,T,1,2,Entire home/apt,6,3.5 baths,3,4,31,4,5,190
+468,Capitol Hill,7/6/2016,F,,1,Entire home/apt,4,1 bath,1,2,31,6,4.67,450
+471,Shaw,7/28/2010,F,,6,Entire home/apt,3,1 bath,1,2,31,2,5,125
+475,Foggy Bottom,7/30/2016,F,,1,Entire home/apt,3,1 bath,2,1,31,102,4.82,129
+477,Capitol Hill,8/3/2016,F,1,2,Entire home/apt,4,1 bath,1,1,270,16,4.86,95
+478,Capitol Hill,8/3/2016,F,1,2,Entire home/apt,4,1 bath,1,3,270,40,4.8,90
+480,Union Station,12/5/2012,T,1,1,Entire home/apt,3,1.5 baths,1,2,3,158,4.96,149
+481,Dupont Circle,7/2/2013,F,,1,Entire home/apt,2,1 bath,1,1,120,6,4.83,125
+483,Shaw,9/2/2012,T,1,29,Entire home/apt,10,3 baths,4,4,31,37,4.84,597
+484,Shaw,9/2/2012,T,1,29,Entire home/apt,5,3 baths,4,4,31,31,4.8,536
+485,Union Station,8/9/2016,T,1,1,Entire home/apt,4,1 bath,,3,3,28,4.96,198
+487,Shaw,8/15/2016,T,0.99,5,Entire home/apt,8,2.5 baths,3,4,3,169,4.92,372
+488,Union Station,1/1/2012,F,,1,,4,1.5 baths,2,2,31,9,4.75,199
+489,Shaw,8/17/2016,F,,2,Entire home/apt,10,1.5 baths,3,5,31,90,4.55,300
+491,Shaw,8/25/2016,F,,1,Private room,2,1 private bath,1,2,31,32,4.83,80
+492,Dupont Circle,4/13/2014,T,0.99,1,Entire home/apt,4,1 bath,2,2,1,415,4.92,228
+494,Shaw,6/19/2013,F,,3,Entire home/apt,6,2 baths,3,3,31,51,4.96,170
+496,Capitol Hill,11/8/2015,T,0.99,1,Entire home/apt,4,1 bath,1,1,3,307,4.89,115
+499,Capitol Hill,9/15/2016,T,1,2,Entire home/apt,12,4 baths,5,7,2,73,4.89,950
+500,Union Station,7/28/2016,F,0.87,1,Entire home/apt,4,1 bath,1,2,4,211,4.98,171
+501,Union Station,9/26/2014,F,,2,Entire home/apt,5,1 bath,1,1,31,6,4.83,95
+502,Dupont Circle,9/21/2016,F,,1,Entire home/apt,2,1 bath,,1,31,1,5,79
+504,Dupont Circle,12/30/2013,F,,1,Entire home/apt,2,1 bath,,1,31,3,5,73
+505,Foggy Bottom,9/23/2016,F,,2,Entire home/apt,3,1 bath,1,1,31,231,4.73,184
+509,Capitol Hill,8/31/2015,T,0.94,1,Entire home/apt,2,1 bath,,1,2,204,4.96,201
+510,Capitol Hill,9/27/2016,F,,1,Entire home/apt,4,1 bath,2,2,31,42,5,108
+516,Union Station,9/2/2013,F,1,14,Entire home/apt,4,1 bath,1,2,2,251,4.78,120
+517,Dupont Circle,10/20/2015,T,1,1,Entire home/apt,2,1 bath,,1,2,216,4.87,114
+521,Shaw,10/15/2015,T,0.98,284,Entire home/apt,6,2 baths,2,3,31,197,4.91,331
+522,Union Station,10/10/2015,F,,1,Entire home/apt,4,1.5 baths,3,3,31,2,5,325
+523,Dupont Circle,3/25/2016,F,,1,Entire home/apt,4,2 baths,1,2,2,49,4.96,130
+524,Union Station,7/6/2016,F,,1,Entire home/apt,8,2 baths,4,3,31,1,5,225
+525,Capitol Hill,8/6/2015,T,1,1,Entire home/apt,3,1 bath,1,1,1,244,4.9,127
+528,Shaw,10/17/2016,T,0.9,2,Entire home/apt,3,1 bath,1,1,2,45,4.98,246
+529,Capitol Hill,1/13/2016,T,0.99,1,Entire home/apt,4,1 bath,1,1,2,211,4.89,80
+531,Union Station,10/22/2015,F,1,1,Entire home/apt,1,1 bath,1,1,60,5,4.8,80
+532,Dupont Circle,5/23/2016,F,0.88,1,Entire home/apt,4,2.5 baths,2,4,2,35,4.83,795
+534,Capitol Hill,10/24/2016,T,0.93,1,Entire home/apt,4,1 bath,1,1,2,135,4.93,159
+535,Union Station,4/11/2014,T,0.96,1,Entire home/apt,3,1 bath,1,2,2,184,4.91,146
+536,Capitol Hill,8/13/2013,F,,1,Entire home/apt,2,1 bath,1,1,31,18,5,110
+538,Capitol Hill,11/2/2016,F,,3,Entire home/apt,8,2 baths,3,3,31,43,4.83,199
+539,Capitol Hill,11/2/2016,F,,3,Entire home/apt,6,1 bath,2,2,31,55,4.7,162
+542,Capitol Hill,8/18/2015,T,0.95,1,Entire home/apt,4,1 bath,1,1,1,111,4.93,111
+543,Union Station,5/31/2014,F,1,2,Entire home/apt,3,1 bath,1,2,2,268,4.71,118
+545,Union Station,1/7/2015,T,1,1,Entire home/apt,2,1 bath,1,1,1,104,4.87,74
+546,Capitol Hill,1/11/2014,T,0.99,4,Entire home/apt,4,1 bath,1,2,2,260,4.88,147
+547,Capitol Hill,6/19/2012,F,0.94,1,Entire home/apt,2,1 bath,1,1,2,68,4.81,106
+548,Capitol Hill,7/5/2013,T,1,2,Entire home/apt,3,1 bath,1,2,35,41,4.98,113
+550,Shaw,6/20/2011,F,1,2,Entire home/apt,8,2.5 baths,4,4,31,72,4.83,652
+552,Georgetown,11/29/2016,T,0.73,11,Private room,2,1 private bath,1,1,1,12,4.83,135
+555,Georgetown,11/29/2016,T,0.73,11,Private room,2,1 private bath,,1,1,13,4.85,135
+556,Georgetown,11/29/2016,T,0.73,11,Private room,2,1 bath,,1,1,1,5,149
+557,Shaw,12/2/2016,F,,1,Entire home/apt,5,1 bath,2,2,90,121,4.79,130
+558,Georgetown,11/29/2016,T,0.73,11,Private room,2,1 bath,1,1,1,7,4.43,179
+560,Union Station,5/13/2013,F,,2,Entire home/apt,5,1 bath,1,2,31,1,5,500
+562,Union Station,5/29/2012,T,1,4,Entire home/apt,4,1 bath,1,2,1,485,4.93,121
+563,Capitol Hill,2/17/2015,F,1,1,Entire home/apt,4,1 bath,1,2,31,238,4.97,125
+564,Georgetown,11/29/2016,T,0.73,11,Private room,2,1 bath,1,1,3,5,4.8,125
+565,Georgetown,11/29/2016,T,0.73,11,Private room,2,1 bath,1,1,3,4,5,149
+566,Georgetown,11/29/2016,T,0.73,11,Private room,2,1 bath,1,1,1,3,4.67,159
+567,Georgetown,11/29/2016,T,0.73,11,Private room,2,1 private bath,1,1,1,7,4.71,165
+568,Georgetown,11/29/2016,T,0.73,11,Private room,3,1 shared bath,1,2,2,7,4.57,175
+572,Union Station,10/15/2015,T,0.98,284,Entire home/apt,8,2.5 baths,3,5,31,162,4.95,678
+574,Capitol Hill,1/10/2016,T,1,10,Entire home/apt,4,1 bath,1,1,2,96,4.74,188
+575,Georgetown,9/16/2014,F,0.93,2,Entire home/apt,3,1 bath,2,2,1,121,4.69,249
+578,Shaw,7/25/2012,F,,1,Entire home/apt,2,1 bath,2,1,31,1,5,210
+585,Dupont Circle,7/29/2015,F,0.99,339,Private room,2,1 private bath,1,1,1,397,4.71,125
+586,Capitol Hill,12/17/2016,F,0.64,1,Entire home/apt,4,1 bath,1,3,4,100,4.98,250
+587,Capitol Hill,12/17/2016,F,,1,Entire home/apt,5,2 baths,3,3,31,3,5,250
+590,Dupont Circle,4/21/2013,F,,2,Entire home/apt,3,1 bath,1,1,31,9,4.25,133
+594,Capitol Hill,7/19/2014,T,1,9,Entire home/apt,9,2 baths,3,6,31,392,4.94,278
+595,Union Station,12/21/2016,F,1,1,Entire home/apt,6,2.5 baths,3,4,31,152,4.8,340
+597,Union Station,12/21/2016,F,,6,Entire home/apt,5,1 bath,2,3,31,35,4.24,175
+598,Shaw,3/10/2014,F,,1,Entire home/apt,3,1.5 baths,1,1,31,5,5,175
+600,Shaw,10/15/2015,T,0.98,284,Entire home/apt,4,1 bath,1,2,2,174,4.91,274
+601,Union Station,6/28/2015,T,0.96,1,Entire home/apt,2,1 bath,1,1,2,106,4.93,140
+605,Shaw,12/28/2016,F,,1,Entire home/apt,4,2.5 baths,2,2,31,7,4,499
+606,Union Station,5/30/2013,F,,2,Entire home/apt,5,1.5 baths,2,2,4,6,5,200
+610,Capitol Hill,11/22/2014,T,1,5,Entire home/apt,4,1 bath,1,2,30,299,4.89,100
+612,Union Station,3/12/2013,F,1,1,Entire home/apt,2,1 bath,,1,2,8,4.75,205
+614,Union Station,10/8/2013,T,1,2,Entire home/apt,3,1 bath,1,1,1,418,4.84,89
+616,Union Station,10/15/2015,T,0.98,284,Entire home/apt,6,1 bath,2,3,31,143,4.76,280
+619,Shaw,11/18/2015,F,,3,Entire home/apt,5,1 bath,2,2,31,10,4.8,120
+621,Capitol Hill,9/15/2016,T,1,2,Entire home/apt,4,1 bath,2,1,3,65,5,200
+622,Union Station,1/12/2014,T,1,1,Entire home/apt,4,1 bath,1,1,1,303,4.92,126
+623,Foggy Bottom,3/5/2012,F,1,23,Entire home/apt,4,1 bath,,2,31,250,4.76,400
+626,Union Station,5/11/2015,F,,2,Entire home/apt,4,2.5 baths,3,3,120,15,5,300
+627,Capitol Hill,5/19/2016,F,1,1,Entire home/apt,2,1 bath,1,2,7,161,4.88,175
+628,Dupont Circle,7/27/2015,F,,1,Entire home/apt,2,1 bath,,1,31,12,4.5,94
+629,Capitol Hill,11/2/2016,F,,3,Entire home/apt,6,1 bath,1,1,31,37,4.73,108
+631,Foggy Bottom,10/28/2014,F,,1,Entire home/apt,2,1 bath,1,1,91,76,4.99,162
+632,Union Station,9/23/2014,T,1,1,Entire home/apt,4,1 bath,1,2,2,184,4.98,180
+633,Georgetown,12/31/2008,F,0.89,3,Entire home/apt,2,1 bath,1,1,5,149,4.79,97
+636,Union Station,10/14/2015,F,1,169,Entire home/apt,4,1 bath,1,2,3,126,4.61,151
+637,Dupont Circle,1/13/2017,F,1,7,Entire home/apt,5,2 baths,2,2,31,42,4.9,400
+638,Union Station,2/11/2011,F,0.75,1,Entire home/apt,4,1.5 baths,2,2,3,29,4.97,250
+639,Capitol Hill,1/6/2016,T,1,2,Entire home/apt,2,1 bath,1,1,2,97,4.92,199
+640,Georgetown,1/16/2017,F,,1,Entire home/apt,3,1.5 baths,2,2,31,28,5,175
+642,Dupont Circle,7/18/2012,F,1,6,Entire home/apt,3,1 bath,1,1,31,99,4.76,126
+643,Dupont Circle,6/4/2013,F,,3,Entire home/apt,4,1 bath,,2,31,6,4.8,100
+645,Union Station,5/30/2016,F,,1,Entire home/apt,4,1 bath,2,2,31,19,4.95,200
+646,Shaw,2/10/2016,F,1,6,Entire home/apt,5,1.5 baths,2,3,31,10,4.78,450
+647,Dupont Circle,6/15/2015,T,0.77,4,Entire home/apt,14,4 baths,6,6,3,52,4.94,928
+649,Capitol Hill,1/21/2017,T,1,1,Entire home/apt,2,1 bath,1,2,2,442,4.98,149
+652,Shaw,4/22/2014,F,,4,Entire home/apt,2,1 bath,1,1,31,7,5,149
+654,Shaw,6/11/2014,T,0.92,157,Entire home/apt,5,1.5 baths,2,2,30,9,4.67,253
+655,Georgetown,4/11/2011,T,0.99,6,Entire home/apt,2,1 bath,1,1,2,252,4.98,145
+663,Union Station,8/18/2013,F,0.99,2,Entire home/apt,4,1 bath,1,1,2,329,4.87,135
+664,Union Station,8/29/2013,T,1,1,Entire home/apt,2,1 bath,1,1,2,534,4.93,105
+667,Georgetown,11/23/2011,T,1,3,Entire home/apt,1,1 bath,1,1,4,17,4.75,115
+668,Foggy Bottom,11/1/2014,F,,1,Entire home/apt,4,1 bath,2,2,31,256,4.91,149
+670,Dupont Circle,4/26/2014,F,,1,Entire home/apt,2,1 bath,,1,31,9,4.71,60
+671,Union Station,7/15/2014,F,,2,Entire home/apt,6,2.5 baths,3,4,31,3,5,250
+675,Georgetown,1/25/2014,T,1,1,Entire home/apt,4,1.5 baths,2,2,5,232,4.85,171
+680,Foggy Bottom,12/9/2015,F,,5,,2,1 shared bath,,1,31,134,4.78,50
+683,Dupont Circle,3/10/2017,F,1,1,Entire home/apt,4,1 bath,1,2,31,41,4.49,95
+689,Foggy Bottom,9/4/2012,F,0.78,6,Entire home/apt,4,1 bath,,2,31,261,4.78,77
+695,Capitol Hill,9/5/2012,T,1,1,Entire home/apt,2,1 bath,,1,1,218,4.95,162
+697,Union Station,9/24/2012,T,1,2,Entire home/apt,6,3.5 baths,4,4,3,60,4.97,614
+706,Union Station,8/17/2014,T,1,1,Entire home/apt,3,1 bath,1,2,1,249,4.87,138
+707,Union Station,9/23/2016,T,,27,Entire home/apt,4,1 bath,1,2,2,96,4.88,179
+708,Union Station,4/11/2013,T,0.94,3,Entire home/apt,4,1.5 baths,2,3,2,19,4.83,249
+709,Union Station,4/11/2013,T,0.94,3,Entire home/apt,2,1 bath,,2,2,152,4.53,74
+710,Shaw,2/26/2013,T,1,8,Entire home/apt,4,1 bath,1,2,2,43,4.79,150
+711,Capitol Hill,7/19/2012,F,0,2,Entire home/apt,4,2.5 baths,2,3,7,3,5,210
+715,Dupont Circle,7/29/2015,F,0.99,339,,2,1 private bath,,1,1,390,4.77,120
+716,Dupont Circle,1/13/2017,F,1,7,Entire home/apt,2,1 bath,,1,31,129,4.81,172
+717,Dupont Circle,1/13/2017,F,1,7,Entire home/apt,2,1.5 baths,1,1,31,94,4.73,132
+718,Foggy Bottom,9/14/2015,F,0.92,6,Entire home/apt,2,1 bath,1,1,31,290,4.68,204
+719,Capitol Hill,5/11/2016,T,0.97,8,Entire home/apt,5,1 bath,1,3,2,18,4.94,250
+722,Union Station,6/21/2016,F,0.43,2,Entire home/apt,5,2 baths,3,3,31,3,5,115
+723,Dupont Circle,1/13/2017,F,1,7,Entire home/apt,4,2.5 baths,2,2,31,157,4.9,280
+725,Union Station,4/1/2015,F,,1,Entire home/apt,4,1.5 baths,1,2,31,4,5,120
+727,Capitol Hill,4/29/2017,T,1,2,Entire home/apt,3,1 bath,,2,2,243,4.84,128
+729,Union Station,4/11/2013,T,0.94,3,Entire home/apt,6,2.5 baths,3,3,2,80,4.75,386
+733,Dupont Circle,7/29/2015,F,0.99,339,Private room,2,1 private bath,,1,1,371,4.78,116
+735,Georgetown,5/16/2015,F,,2,Entire home/apt,2,1 bath,1,1,31,79,4.75,105
+736,Shaw,5/11/2017,T,0.98,1,Entire home/apt,5,1 bath,1,2,1,601,4.89,165
+739,Union Station,5/15/2017,F,,1,Entire home/apt,4,1.5 baths,2,2,31,13,5,1200
+740,Georgetown,9/14/2014,T,0.95,1,Entire home/apt,3,1.5 baths,2,1,4,52,4.88,343
+741,Dupont Circle,3/11/2015,T,1,4,Entire home/apt,3,1 bath,1,1,1,110,4.78,217
+742,Capitol Hill,7/20/2016,T,0.99,1,Entire home/apt,3,1 bath,1,1,2,324,4.87,72
+745,Union Station,3/31/2014,T,0.99,9,Entire home/apt,6,1 bath,2,2,2,185,4.67,205
+749,Capitol Hill,9/26/2015,F,,1,Shared room,1,1 shared bath,,1,31,13,4.92,58
+751,Union Station,8/27/2012,T,0.98,1,Entire home/apt,5,1.5 baths,1,2,3,130,5,140
+752,Union Station,3/31/2014,T,0.99,9,Entire home/apt,6,1 bath,2,2,2,144,4.81,168
+756,Georgetown,6/4/2017,F,,1,Entire home/apt,6,1.5 baths,2,4,31,82,4.48,239
+757,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,1,31,61,4.87,90
+758,Dupont Circle,7/29/2015,F,0.99,339,Private room,2,1 private bath,1,1,1,472,4.82,105
+759,Dupont Circle,3/11/2015,T,1,4,Entire home/apt,9,2 baths,4,4,2,30,4.83,486
+760,Union Station,11/27/2013,T,1,30,Entire home/apt,8,2.5 baths,4,3,31,54,4.85,473
+761,Foggy Bottom,7/27/2016,F,,1,Entire home/apt,2,1 bath,,1,31,8,5,99
+762,Union Station,12/21/2016,F,,6,Entire home/apt,5,1 bath,2,3,31,85,4.46,165
+764,Capitol Hill,12/10/2011,T,0.93,5,Entire home/apt,4,1 bath,1,1,31,193,4.94,79
+765,Capitol Hill,8/21/2011,T,1,2,Entire home/apt,4,1 bath,2,2,2,156,4.92,205
+766,Dupont Circle,5/4/2016,F,,3,Entire home/apt,4,1 bath,1,2,31,3,5,105
+767,Union Station,1/15/2009,F,,2,Entire home/apt,4,2 baths,2,2,31,6,5,125
+769,Union Station,12/8/2014,T,0.96,1,Entire home/apt,4,1 bath,1,2,1,217,4.8,150
+770,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,3,1 bath,1,2,2,251,4.89,128
+771,Union Station,3/31/2014,T,0.99,9,Entire home/apt,2,1 bath,1,1,1,176,4.86,157
+773,Shaw,6/25/2017,F,,1,Entire home/apt,2,1 bath,,2,45,1,5,107
+775,Dupont Circle,6/11/2016,F,,2,Private room,2,1 shared bath,,1,31,3,5,85
+778,Dupont Circle,10/12/2016,F,,3,Entire home/apt,2,1 bath,,1,31,1,3,200
+780,Capitol Hill,5/10/2015,T,1,2,Entire home/apt,8,3 baths,3,4,3,156,4.98,346
+781,Shaw,6/9/2013,F,1,1,Entire home/apt,8,2.5 baths,4,4,31,68,4.47,425
+783,Shaw,7/29/2016,T,1,3,Entire home/apt,2,1 bath,1,1,31,248,4.81,75
+784,Shaw,8/5/2015,T,1,2,Entire home/apt,6,2 baths,3,3,31,199,4.87,265
+785,Union Station,9/24/2012,T,1,2,Private room,4,1 shared bath,,1,1,48,4.98,175
+787,Foggy Bottom,1/30/2011,F,,2,Entire home/apt,2,1 bath,1,2,31,18,4.94,130
+788,Shaw,12/14/2014,F,,3,Entire home/apt,4,2.5 baths,2,2,31,3,3.67,72
+789,Shaw,6/10/2014,F,,1,Entire home/apt,4,2.5 baths,2,2,31,25,4.68,205
+790,Union Station,11/16/2013,F,,1,Entire home/apt,4,1 bath,1,1,2,51,4.94,82
+793,Union Station,5/11/2015,F,,2,Private room,2,1 private bath,,1,31,3,5,57
+795,Union Station,11/8/2016,T,0.95,1,Entire home/apt,4,1.5 baths,2,2,3,141,4.96,212
+796,Capitol Hill,9/2/2012,T,1,29,Entire home/apt,8,2 baths,3,3,31,10,4.67,388
+797,Georgetown,5/4/2012,T,0.95,7,Entire home/apt,13,3.5 baths,4,5,2,238,4.88,479
+801,Shaw,4/23/2013,F,,1,Entire home/apt,6,1 bath,1,1,1,573,4.84,179
+802,Capitol Hill,1/6/2015,T,1,1,Entire home/apt,3,1 bath,1,1,2,306,5,155
+803,Capitol Hill,12/14/2015,T,0.98,1,Entire home/apt,4,1 bath,2,4,1,446,4.86,168
+805,Dupont Circle,8/1/2017,F,1,2,Entire home/apt,5,1 bath,2,4,2,238,4.65,219
+806,Union Station,11/27/2012,F,,1,Entire home/apt,6,2 baths,2,2,31,16,4.88,73
+807,Capitol Hill,8/2/2017,F,0.94,1,Entire home/apt,6,2.5 baths,3,3,2,312,4.87,281
+810,Union Station,3/31/2014,T,0.99,9,Entire home/apt,2,1 bath,1,1,1,183,4.78,159
+812,Union Station,12/3/2014,F,0.95,1,Entire home/apt,6,2 baths,3,3,3,36,4.77,250
+816,Capitol Hill,12/19/2013,F,,4,Entire home/apt,4,1 bath,1,1,4,36,5,145
+817,Capitol Hill,8/7/2017,T,1,1,Entire home/apt,4,1 bath,1,1,3,89,4.83,136
+819,Dupont Circle,3/11/2015,T,1,4,Entire home/apt,7,1 bath,2,4,1,231,4.76,230
+824,Capitol Hill,5/18/2009,F,0.99,164,Entire home/apt,6,3.5 baths,2,5,31,12,4.42,54
+825,Foggy Bottom,6/24/2011,T,0.99,6,Entire home/apt,2,1 bath,2,2,90,6,5,80
+827,Union Station,8/22/2017,T,1,3,Entire home/apt,5,2.5 baths,2,4,31,191,4.95,151
+829,Dupont Circle,8/21/2017,F,1,1,Entire home/apt,4,1 bath,1,1,31,70,4.8,115
+830,Union Station,8/1/2013,F,,4,Entire home/apt,9,2.5 baths,4,4,31,73,4.96,250
+831,Capitol Hill,8/18/2017,F,0.76,51,Shared room,6,1 shared bath,,6,1,15,4.4,35
+833,Capitol Hill,8/18/2017,F,0.76,51,Shared room,6,1 shared bath,,6,1,28,4.54,31
+834,Capitol Hill,9/19/2016,F,0,2,Entire home/apt,4,1 bath,1,1,31,2,5,100
+836,Capitol Hill,9/1/2017,T,1,2,Entire home/apt,2,1 bath,1,2,2,224,4.93,144
+837,Capitol Hill,1/10/2016,T,1,10,Entire home/apt,2,1 bath,1,1,2,183,4.68,152
+838,Union Station,1/10/2016,T,1,10,Entire home/apt,6,1 bath,2,2,2,106,4.74,189
+841,Dupont Circle,3/2/2013,F,,2,Private room,2,1 shared bath,1,1,31,4,4.75,62
+843,Capitol Hill,9/7/2017,F,,1,Entire home/apt,8,4 baths,4,4,31,102,4.79,400
+844,Union Station,8/21/2012,F,0.99,223,Entire home/apt,6,2 baths,2,3,31,123,4.67,216
+845,Union Station,8/21/2012,F,0.99,223,Entire home/apt,6,2 baths,2,3,31,138,4.69,228
+846,Union Station,8/21/2012,F,0.99,223,Entire home/apt,6,2 baths,2,3,31,71,4.56,228
+847,Union Station,8/21/2012,F,0.99,223,Entire home/apt,6,2 baths,2,3,31,118,4.5,216
+849,Shaw,8/4/2015,F,0.25,86,Entire home/apt,3,1 bath,1,1,31,5,4.8,169
+851,Union Station,1/10/2016,T,1,10,Entire home/apt,2,1 bath,1,1,2,104,4.59,134
+857,Foggy Bottom,2/20/2014,F,1,3,Entire home/apt,4,1 bath,2,3,4,208,4.79,209
+858,Shaw,8/16/2012,T,1,1,Entire home/apt,3,1 bath,1,2,3,86,4.92,187
+859,Union Station,3/7/2016,T,1,3,Entire home/apt,4,1 bath,1,2,3,249,4.86,129
+860,Dupont Circle,11/12/2015,F,,5,Entire home/apt,3,1 bath,1,1,31,3,5,175
+861,Capitol Hill,8/20/2014,T,1,1,Entire home/apt,2,1 bath,1,1,2,284,4.99,131
+863,Georgetown,10/15/2015,T,0.98,284,Entire home/apt,5,1 bath,2,4,3,95,4.67,268
+865,Shaw,11/29/2012,F,0.95,10,Entire home/apt,4,1 bath,2,2,31,54,4.56,150
+868,Dupont Circle,12/31/2015,T,1,1,Entire home/apt,4,1 bath,2,2,2,228,4.96,279
+870,Shaw,11/16/2012,F,,3,Entire home/apt,9,3 baths,4,4,31,66,4.89,350
+871,Union Station,2/3/2015,T,1,1,Entire home/apt,2,1 bath,1,2,31,265,4.99,105
+872,Capitol Hill,8/18/2017,F,0.76,51,Private room,4,1 private bath,1,4,1,16,4.38,107
+873,Capitol Hill,8/18/2017,F,0.76,51,Shared room,6,1 shared bath,,6,1,49,4.53,25
+874,Foggy Bottom,3/5/2015,T,0.73,6,Entire home/apt,4,1 bath,1,2,31,175,4.91,110
+876,Capitol Hill,4/4/2014,F,,3,Entire home/apt,3,1 bath,2,2,31,2,5,80
+878,Foggy Bottom,9/15/2017,F,1,1,Entire home/apt,5,1 bath,2,3,31,191,4.68,130
+879,Shaw,8/22/2011,T,0.89,1,Entire home/apt,4,1 bath,2,2,2,144,4.88,99
+880,Shaw,7/19/2016,F,,9,Entire home/apt,4,1 bath,2,2,31,146,4.86,150
+881,Shaw,10/31/2017,F,,2,Entire home/apt,3,1 bath,2,2,31,118,4.43,109
+883,Foggy Bottom,9/4/2012,F,0.78,6,Entire home/apt,4,1 bath,,2,31,107,4.8,73
+884,Capitol Hill,2/13/2016,F,,2,Private room,2,1 private bath,1,1,31,18,4.56,60
+885,Dupont Circle,12/17/2015,F,1,1,Entire home/apt,4,1 bath,1,2,365,144,4.94,120
+890,Union Station,6/1/2015,F,,3,Private room,2,1 private bath,1,1,31,2,5,150
+891,Capitol Hill,4/13/2017,T,0.8,5,Entire home/apt,2,1 bath,1,1,31,74,4.93,58
+893,Capitol Hill,11/16/2015,T,0.99,3,Entire home/apt,8,3.5 baths,3,4,3,163,4.91,503
+895,Union Station,10/29/2012,T,0.91,1,Entire home/apt,4,1.5 baths,2,2,2,25,4.84,198
+903,Union Station,7/7/2014,T,0.99,2,Entire home/apt,2,1 bath,,1,2,319,4.92,119
+904,Capitol Hill,9/11/2015,F,,1,Entire home/apt,3,1 bath,,1,31,55,4.96,79
+907,Union Station,7/17/2017,F,1,5,Entire home/apt,5,1 bath,2,3,2,254,4.78,188
+908,Capitol Hill,2/5/2013,F,0.95,6,Entire home/apt,2,1 bath,,1,2,34,4.94,87
+913,Union Station,1/16/2015,T,1,3,Private room,2,1 private bath,1,1,1,372,4.94,130
+914,Capitol Hill,7/2/2013,F,,1,Entire home/apt,4,1 bath,,2,31,72,4.9,65
+917,Union Station,8/23/2017,F,1,1,Entire home/apt,3,1 bath,,2,1,14,5,102
+918,Capitol Hill,4/13/2017,T,0.8,5,Entire home/apt,4,1 bath,2,1,31,52,4.88,225
+920,Union Station,1/3/2018,F,,1,Entire home/apt,5,1 bath,2,2,31,6,5,130
+922,Shaw,1/4/2018,T,0.95,1,Entire home/apt,3,1 bath,,2,2,349,4.95,158
+932,Capitol Hill,8/18/2017,F,0.76,51,Shared room,5,1 shared bath,,6,1,14,4.14,33
+933,Capitol Hill,8/18/2017,F,0.76,51,Shared room,4,1 shared bath,,6,1,47,4.28,30
+934,Shaw,1/11/2018,T,0.98,1,Entire home/apt,3,1 bath,1,2,3,165,4.99,194
+936,Shaw,7/27/2015,T,1,2,Entire home/apt,4,1 bath,1,2,1,383,4.9,148
+938,Union Station,1/13/2018,F,0.96,1,Entire home/apt,4,1 bath,1,2,2,78,4.95,130
+941,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,30,36,4.81,299
+942,Capitol Hill,9/6/2012,F,0.9,1,Entire home/apt,3,1 bath,1,1,2,153,4.82,150
+943,Union Station,1/19/2018,T,1,1,Entire home/apt,8,2.5 baths,3,4,3,159,4.94,459
+947,Foggy Bottom,1/29/2018,F,,1,Entire home/apt,3,1 bath,,2,180,25,4.44,157
+948,Shaw,10/28/2013,T,0.99,16,Entire home/apt,4,1 bath,2,2,31,138,4.9,104
+949,Dupont Circle,4/1/2013,F,,2,Entire home/apt,3,1 bath,1,1,31,87,4.94,125
+950,Shaw,1/28/2018,F,0.99,1,Entire home/apt,4,1 bath,2,2,1,311,4.42,150
+952,Union Station,10/2/2011,T,1,1,Entire home/apt,4,1 bath,,2,2,240,4.78,77
+955,Shaw,8/7/2014,T,1,1,Entire home/apt,4,1 bath,,1,2,227,4.7,105
+957,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,1,241,4.63,147
+960,Capitol Hill,5/23/2014,F,,1,Entire home/apt,6,2.5 baths,2,3,31,14,4.92,140
+961,Dupont Circle,9/8/2014,T,0.97,10,Entire home/apt,1,1 bath,,1,182,1,5,70
+965,Shaw,5/5/2016,F,1,3,Entire home/apt,3,1 bath,1,2,3,238,4.88,132
+969,Union Station,3/15/2016,T,1,2,Entire home/apt,3,1 bath,1,2,1,287,4.91,109
+971,Union Station,3/14/2018,T,0.98,1,Entire home/apt,4,1 bath,1,2,2,304,4.85,160
+976,Shaw,10/14/2013,F,,1,Entire home/apt,2,1 bath,1,1,31,4,5,90
+977,Dupont Circle,8/1/2015,F,,5,Entire home/apt,2,1 bath,,1,31,20,4.95,68
+980,Shaw,11/3/2015,F,0,2,Entire home/apt,2,1 bath,,1,31,26,4.68,75
+984,Union Station,6/11/2016,T,0.99,2,Entire home/apt,6,1 bath,1,3,1,330,4.9,115
+987,Union Station,4/2/2018,F,1,10,Entire home/apt,4,1 bath,1,2,31,170,4.73,125
+988,Union Station,3/12/2014,T,1,1,Entire home/apt,2,1 bath,,1,2,106,5,124
+989,Shaw,4/6/2018,F,0.83,11,Entire home/apt,4,1 bath,2,2,31,82,4.73,105
+990,Foggy Bottom,4/10/2016,F,,1,Entire home/apt,1,1 bath,1,1,180,2,5,75
+994,Dupont Circle,5/31/2016,F,,1,Entire home/apt,2,1 bath,1,1,31,1,5,135
+995,Shaw,7/27/2015,T,1,2,Entire home/apt,5,1 bath,1,2,1,315,4.89,140
+1000,Foggy Bottom,9/17/2014,T,1,2,Entire home/apt,3,1.5 baths,1,1,31,46,4.93,171
+1001,Shaw,6/19/2013,T,0.99,1,Entire home/apt,2,1 bath,1,1,2,395,4.95,142
+1005,Union Station,4/10/2014,F,0,2,Entire home/apt,4,2.5 baths,2,2,31,2,5,172
+1008,Dupont Circle,4/28/2018,T,1,1,Entire home/apt,2,2 baths,2,2,31,67,4.99,140
+1014,Capitol Hill,5/1/2018,T,1,1,Entire home/apt,4,1 bath,1,1,1,370,4.78,134
+1016,Capitol Hill,4/18/2015,F,0.75,7,Entire home/apt,4,2.5 baths,2,2,31,99,4.94,189
+1017,Georgetown,10/6/2014,F,1,4,Entire home/apt,6,1 bath,3,4,30,74,4.68,258
+1018,Shaw,5/21/2012,F,0.97,5,Entire home/apt,6,2 baths,2,3,3,112,4.46,300
+1020,Capitol Hill,5/14/2018,F,0.99,4,Entire home/apt,10,3 baths,5,5,2,182,4.82,792
+1021,Capitol Hill,8/6/2013,T,0.99,1,Entire home/apt,2,1 bath,,1,3,288,4.99,80
+1023,Dupont Circle,3/5/2015,T,0.73,6,Entire home/apt,4,1 bath,1,2,31,137,4.82,110
+1029,Union Station,6/1/2014,T,0.98,2,Entire home/apt,4,1 bath,1,2,2,280,4.84,181
+1031,Capitol Hill,3/25/2017,T,1,2,Entire home/apt,5,1 bath,2,3,31,61,4.57,150
+1032,Shaw,8/15/2016,T,0.99,5,Entire home/apt,8,2.5 baths,3,5,3,147,4.93,450
+1035,Capitol Hill,8/18/2017,F,0.76,51,Shared room,1,1 shared bath,,1,1,66,4.56,29
+1036,Capitol Hill,8/18/2017,F,0.76,51,Shared room,6,1 shared bath,,6,1,14,4.43,29
+1038,Union Station,7/10/2014,F,1,8,Private room,1,1 private bath,,1,31,1,1,114
+1039,Union Station,9/2/2013,F,1,14,Entire home/apt,4,1 bath,1,2,1,329,4.74,115
+1043,Georgetown,12/31/2008,F,0.89,3,Entire home/apt,3,1 bath,2,2,5,29,5,193
+1045,Shaw,10/6/2013,T,,18,Entire home/apt,10,2.5 baths,3,7,2,96,4.88,1030
+1046,Georgetown,10/26/2014,F,0.44,2,Entire home/apt,4,2 baths,2,2,7,6,5,249
+1048,Dupont Circle,12/23/2012,T,1,9,Entire home/apt,2,1 bath,2,2,7,8,4.88,140
+1049,Capitol Hill,8/27/2013,T,1,1,Entire home/apt,5,1 bath,2,3,2,211,4.92,123
+1050,Union Station,11/19/2015,F,0.96,1,Entire home/apt,3,1 bath,1,1,2,34,4.82,135
+1051,Union Station,7/22/2013,T,0.95,24,Entire home/apt,5,1 bath,2,3,31,134,4.78,190
+1053,Dupont Circle,6/17/2018,F,,1,Entire home/apt,2,1 bath,,1,31,4,2.75,79
+1055,Union Station,3/15/2016,T,1,2,Entire home/apt,10,3.5 baths,4,4,3,4,5,220
+1056,Union Station,8/24/2016,F,0.75,1,Entire home/apt,3,1 bath,1,1,3,55,4.91,200
+1057,Union Station,6/2/2016,T,,3,Entire home/apt,4,1 bath,,2,31,57,4.77,150
+1061,Shaw,3/24/2017,F,0.99,1894,Entire home/apt,6,2 baths,2,2,31,2,4.5,178
+1062,Shaw,10/16/2016,T,1,3,Entire home/apt,2,1 bath,1,1,1,181,4.86,108
+1063,Dupont Circle,10/20/2017,F,,1,Entire home/apt,2,1 bath,1,1,31,38,4.7,112
+1064,Dupont Circle,10/16/2016,T,1,3,Entire home/apt,2,1 bath,1,1,1,263,4.91,89
+1065,Georgetown,1/10/2018,T,1,6,Entire home/apt,4,1 bath,,2,31,133,4.89,104
+1066,Capitol Hill,12/27/2013,F,,1,Entire home/apt,7,2.5 baths,4,4,31,3,5,200
+1067,Capitol Hill,3/25/2017,T,1,2,Entire home/apt,2,1 bath,,1,31,44,4.73,87
+1068,Union Station,11/30/2016,F,0.93,5,Entire home/apt,4,1 bath,1,1,31,64,4.55,200
+1069,Georgetown,3/30/2015,T,1,6,Entire home/apt,4,1 bath,2,2,2,245,4.96,169
+1072,Capitol Hill,1/16/2016,T,0.94,1,Entire home/apt,4,1 bath,,2,2,249,4.89,132
+1073,Capitol Hill,6/7/2016,T,1,4,Entire home/apt,4,1.5 baths,3,2,2,72,4.82,195
+1074,Capitol Hill,8/18/2017,F,0.76,51,Shared room,6,1 shared bath,,1,1,58,4.43,26
+1076,Capitol Hill,2/11/2016,T,0.95,3,Entire home/apt,4,1.5 baths,2,2,2,168,4.91,238
+1078,Capitol Hill,5/14/2018,F,0.99,4,Entire home/apt,6,1 bath,2,2,2,228,4.68,260
+1080,Shaw,12/9/2016,T,0.8,1,Entire home/apt,6,2 baths,3,3,31,86,4.98,330
+1081,Dupont Circle,10/4/2014,F,,2,Entire home/apt,3,1 bath,1,1,31,7,5,105
+1083,Georgetown,4/19/2016,T,1,22,Entire home/apt,9,2 baths,3,5,2,150,4.77,449
+1084,Dupont Circle,3/5/2014,F,,1,Entire home/apt,3,1 bath,,2,31,2,5,100
+1085,Union Station,8/6/2018,F,,1,Entire home/apt,3,1 bath,,2,31,40,4.98,99
+1086,Union Station,2/28/2014,T,0.99,2,Entire home/apt,4,1 bath,1,2,2,247,4.84,107
+1088,Union Station,10/31/2016,F,,2,Entire home/apt,5,1 bath,1,1,31,41,4.83,89
+1090,Georgetown,10/8/2014,F,,3,Entire home/apt,3,1 bath,2,3,31,207,4.95,300
+1091,Capitol Hill,9/8/2014,T,1,1,Entire home/apt,2,1 bath,,2,2,199,4.88,99
+1092,Georgetown,8/13/2018,F,,4,Entire home/apt,5,1.5 baths,3,2,31,43,4.58,260
+1094,Dupont Circle,4/6/2011,T,0.99,193,Entire home/apt,4,2 baths,2,3,31,114,4.49,152
+1096,Dupont Circle,1/15/2011,F,1,4,Entire home/apt,6,2.5 baths,3,4,3,125,4.54,303
+1097,Shaw,10/6/2013,T,,18,Entire home/apt,6,1 bath,2,5,2,143,4.66,323
+1098,Union Station,2/4/2012,T,0.97,5,Entire home/apt,2,1 bath,1,1,2,62,4.87,90
+1099,Union Station,8/21/2018,F,,5,Entire home/apt,4,1 bath,1,2,31,4,4.25,104
+1105,Union Station,8/25/2018,F,,1,Entire home/apt,4,1.5 baths,2,3,31,87,4.97,175
+1108,Shaw,8/7/2018,F,0.5,2,Entire home/apt,3,1 bath,1,2,31,9,4.5,80
+1114,Dupont Circle,8/1/2017,F,1,2,Entire home/apt,5,1 bath,2,4,2,191,4.79,219
+1115,Union Station,8/29/2016,T,0.96,1,Entire home/apt,4,1 bath,1,2,2,82,4.9,175
+1116,Union Station,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,,1,31,33,4.52,89
+1120,Union Station,12/14/2015,F,0.88,1,Entire home/apt,4,1.5 baths,1,1,2,6,4.33,135
+1121,Dupont Circle,6/17/2014,F,0.4,8,Entire home/apt,1,1 bath,1,1,60,11,4.64,95
+1122,Georgetown,9/16/2018,F,,4,Entire home/apt,6,1 bath,2,3,31,7,4.33,165
+1123,Georgetown,9/16/2018,F,,4,Private room,2,1 shared bath,,1,31,16,4.5,85
+1124,Georgetown,9/16/2018,F,,4,Private room,2,1 shared bath,,1,31,13,4.23,75
+1125,Capitol Hill,8/22/2017,T,1,3,Entire home/apt,8,2 baths,2,2,31,149,4.97,235
+1129,Union Station,12/15/2014,F,1,2,Entire home/apt,4,1 bath,1,2,4,42,4.95,155
+1130,Dupont Circle,3/8/2014,T,0.95,36,Entire home/apt,7,1 bath,2,4,31,54,4.74,160
+1132,Foggy Bottom,9/19/2018,F,,9,Entire home/apt,3,1 bath,1,1,31,24,4.57,109
+1134,Shaw,11/2/2015,F,0.97,1986,Entire home/apt,6,2.5 baths,3,3,31,2,3.5,167
+1135,Shaw,10/15/2015,T,0.98,284,Entire home/apt,10,2.5 baths,2,3,31,103,4.87,194
+1136,Union Station,8/7/2014,F,0.82,1,Entire home/apt,4,1 bath,1,1,6,116,4.91,89
+1137,Capitol Hill,6/27/2012,T,0.99,11,Entire home/apt,4,1 bath,1,4,2,206,4.8,150
+1138,Shaw,10/15/2015,T,0.98,284,Entire home/apt,6,2.5 baths,2,3,2,131,4.94,224
+1139,Dupont Circle,10/2/2018,F,,1,Entire home/apt,4,1 bath,1,1,31,7,4.86,140
+1140,Union Station,2/3/2012,F,0.96,2,Entire home/apt,2,1 bath,1,1,2,158,4.7,99
+1141,Shaw,10/28/2013,T,0.99,16,Entire home/apt,12,4 baths,4,6,2,101,4.94,581
+1142,Union Station,6/4/2016,F,1,1,Entire home/apt,2,1 bath,2,2,5,131,4.69,80
+1143,Capitol Hill,1/23/2012,T,1,2,Entire home/apt,2,1 bath,,2,2,160,4.97,161
+1144,Union Station,3/20/2014,F,0.89,1,Entire home/apt,2,1 bath,,1,4,90,4.99,80
+1145,Capitol Hill,10/8/2018,T,1,1,Entire home/apt,4,1 bath,1,2,3,201,4.93,999
+1148,Shaw,3/10/2014,T,0.99,4,Entire home/apt,2,1 bath,1,1,3,37,4.92,151
+1150,Capitol Hill,8/9/2018,T,1,6,Entire home/apt,7,1.5 baths,3,4,1,60,4.95,286
+1152,Dupont Circle,1/27/2016,F,,2,Entire home/apt,3,2 baths,2,2,31,10,4.9,130
+1153,Union Station,10/26/2018,T,,4,Entire home/apt,10,2.5 baths,3,5,31,32,4.91,549
+1155,Dupont Circle,7/10/2018,F,0,2,Entire home/apt,2,1 bath,,1,60,4,5,75
+1157,Capitol Hill,4/27/2016,F,0.81,44,Entire home/apt,3,1 bath,1,1,31,100,4.67,299
+1158,Georgetown,9/14/2011,T,0.85,3,Entire home/apt,7,2.5 baths,3,4,4,39,5,657
+1159,Capitol Hill,10/15/2015,T,0.98,284,Entire home/apt,3,1 bath,,2,2,83,4.71,89
+1162,Shaw,3/16/2014,T,1,2,Entire home/apt,2,1 bath,1,1,3,110,5,192
+1164,Capitol Hill,12/23/2014,T,1,1,Entire home/apt,4,1 bath,1,2,2,187,4.91,120
+1165,Dupont Circle,11/10/2018,T,1,3,Entire home/apt,1,1 bath,1,1,2,165,4.91,170
+1166,Union Station,9/26/2014,F,,2,Entire home/apt,2,1 bath,1,1,31,2,5,75
+1167,Capitol Hill,4/29/2017,T,0.99,2,Entire home/apt,3,1 bath,,2,1,354,4.9,101
+1168,Dupont Circle,5/18/2009,F,0.99,164,Entire home/apt,4,1 bath,1,2,1,42,4.98,10
+1169,Dupont Circle,5/18/2009,F,0.99,164,Entire home/apt,5,1 bath,2,4,1,21,4.79,10
+1170,Union Station,2/16/2014,T,1,2,Entire home/apt,4,1 bath,1,1,1,288,4.92,175
+1174,Dupont Circle,10/1/2016,F,0.96,3,Entire home/apt,4,1.5 baths,2,2,31,90,4.72,339
+1175,Georgetown,9/20/2018,F,0.96,1,Entire home/apt,4,1 bath,2,3,2,359,4.56,221
+1176,Dupont Circle,12/28/2014,T,0.71,8,Entire home/apt,5,2 baths,2,3,45,29,4.9,164
+1177,Georgetown,9/20/2014,T,1,16,Entire home/apt,4,1 bath,1,2,1,443,4.87,125
+1180,Capitol Hill,8/18/2017,F,0.76,51,Shared room,4,1 shared bath,,1,1,16,4.63,31
+1181,Capitol Hill,8/18/2017,F,0.76,51,Shared room,6,1 shared bath,,1,1,52,4.44,29
+1186,Georgetown,12/12/2018,T,1,1,Entire home/apt,3,1 bath,1,3,1,252,4.91,213
+1188,Union Station,12/17/2018,T,0.42,1,Entire home/apt,2,1 bath,1,1,2,52,4.96,125
+1189,Dupont Circle,6/28/2015,T,1,3,Entire home/apt,2,1 bath,,1,28,12,4.92,150
+1190,Capitol Hill,9/2/2012,T,1,29,Entire home/apt,5,1 bath,1,2,31,35,4.66,177
+1191,Union Station,8/13/2011,T,1,1,Entire home/apt,3,1 bath,1,2,31,92,4.91,117
+1192,Shaw,10/15/2015,T,0.98,284,Entire home/apt,4,1 bath,1,2,3,122,4.76,164
+1194,Union Station,4/1/2018,F,1,4,Entire home/apt,2,1 bath,1,1,31,11,4.36,105
+1195,Dupont Circle,12/26/2015,F,1,2,Entire home/apt,2,1 bath,,1,31,6,4.33,109
+1197,Foggy Bottom,9/14/2013,F,,1,Entire home/apt,2,1 bath,1,1,31,1,0,120
+1200,Capitol Hill,11/30/2014,T,1,1,Entire home/apt,3,1 bath,1,2,3,143,4.94,195
+1201,Union Station,12/24/2012,T,0.6,1,Entire home/apt,6,1 bath,2,2,21,113,5,100
+1202,Union Station,8/21/2018,F,,5,Entire home/apt,4,1 bath,1,2,31,4,3.33,300
+1203,Union Station,10/7/2018,F,,1,Entire home/apt,6,1.5 baths,2,4,31,135,4.88,165
+1204,Capitol Hill,6/11/2018,F,,1,Entire home/apt,2,1 bath,1,1,31,2,5,100
+1205,Shaw,8/15/2016,T,0.99,5,Entire home/apt,5,1 bath,2,3,3,93,4.75,199
+1207,Capitol Hill,4/26/2015,F,,4,Entire home/apt,3,1 bath,1,1,31,2,5,125
+1208,Capitol Hill,9/7/2016,F,0.96,1,Entire home/apt,8,2.5 baths,3,4,2,95,4.58,503
+1215,Union Station,8/21/2018,F,,5,Entire home/apt,4,1 bath,2,2,31,7,3.6,149
+1218,Capitol Hill,1/29/2019,T,0.98,1,Entire home/apt,6,1 bath,1,2,2,236,4.82,306
+1219,Shaw,6/17/2013,T,,6,Entire home/apt,4,1 bath,1,1,3,162,4.59,155
+1220,Capitol Hill,7/20/2014,F,1,3,Entire home/apt,10,3 baths,5,6,31,37,4.78,323
+1221,Dupont Circle,11/28/2012,F,,3,Entire home/apt,2,1 bath,2,2,31,17,5,145
+1224,Capitol Hill,5/22/2016,F,,1,Entire home/apt,4,1 bath,1,2,2,261,4.8,138
+1225,Foggy Bottom,9/19/2018,F,,9,Entire home/apt,3,1 bath,1,1,31,15,4.67,139
+1226,Foggy Bottom,9/19/2018,F,,9,Entire home/apt,5,2 baths,2,2,31,2,3.5,259
+1227,Shaw,12/16/2016,F,0.97,5607,Entire home/apt,2,1 bath,1,1,32,1,4,213
+1230,Shaw,5/21/2012,F,0.97,5,Entire home/apt,8,2.5 baths,3,3,3,15,4.8,435
+1231,Dupont Circle,4/6/2011,T,0.99,193,Entire home/apt,3,1 bath,1,2,1,116,4.56,121
+1232,Union Station,2/13/2019,F,1,1,Entire home/apt,3,1 bath,1,1,2,123,4.76,140
+1233,Union Station,12/22/2016,T,0.86,26,Entire home/apt,3,1 bath,2,2,31,69,4.91,70
+1235,Capitol Hill,7/24/2013,T,1,3,Entire home/apt,8,2 baths,3,3,2,63,4.95,383
+1237,Dupont Circle,6/1/2016,T,0.46,3,Entire home/apt,5,1 bath,2,2,31,146,4.93,162
+1238,Shaw,9/10/2012,T,1,6,Entire home/apt,8,2.5 baths,2,3,3,186,4.99,438
+1239,Union Station,5/5/2016,F,,2,Private room,2,1 private bath,,1,31,2,5,29
+1240,Capitol Hill,3/2/2019,F,,1,Entire home/apt,2,1 bath,3,1,31,22,4.82,72
+1241,Shaw,12/16/2016,F,0.97,5607,Entire home/apt,2,1 bath,1,1,32,1,3,203
+1249,Capitol Hill,2/11/2016,T,0.95,3,Entire home/apt,2,1.5 baths,1,1,2,101,4.96,216
+1251,Capitol Hill,8/4/2015,T,0.96,1,Entire home/apt,3,1 bath,,2,1,75,4.9,119
+1252,Dupont Circle,11/10/2018,T,1,3,Entire home/apt,2,1 bath,1,1,2,152,4.93,170
+1253,Union Station,7/20/2016,F,1,7,Entire home/apt,6,2 baths,2,3,31,113,4.92,99
+1254,Shaw,4/22/2014,F,,4,Entire home/apt,4,1 bath,1,2,31,31,4.97,185
+1255,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,154,4.88,216
+1256,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,186,4.79,214
+1257,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,2 baths,2,2,3,133,4.9,421
+1258,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,1,31,11,4.82,85
+1259,Union Station,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,2,31,10,4.9,95
+1260,Union Station,4/27/2016,F,0.81,44,Entire home/apt,3,2 baths,2,2,31,7,5,135
+1261,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,31,154,4.79,265
+1270,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1.5 baths,2,2,31,95,4.73,350
+1271,Capitol Hill,3/14/2013,T,0.98,4,Entire home/apt,6,2.5 baths,3,3,2,69,4.99,720
+1272,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,1,30,7,4.57,208
+1274,Georgetown,9/20/2014,T,1,16,Entire home/apt,4,1 bath,1,3,1,324,4.82,123
+1275,Shaw,7/12/2018,F,,4,Entire home/apt,3,1 bath,1,1,30,270,4.95,342
+1276,Dupont Circle,11/10/2018,T,1,3,Entire home/apt,5,2 baths,2,2,2,104,4.78,325
+1277,Foggy Bottom,9/4/2012,F,0.78,6,Entire home/apt,6,1 bath,1,2,31,86,4.84,129
+1279,Union Station,9/20/2015,F,,1,Entire home/apt,2,1 bath,1,1,31,31,4.81,185
+1280,Capitol Hill,4/12/2019,T,0.97,3,Entire home/apt,4,1 bath,1,3,31,129,4.95,150
+1281,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,,1,1,75,4.73,181
+1283,Union Station,7/4/2011,F,1,2,Entire home/apt,3,1 bath,3,2,6,20,4.8,170
+1284,Capitol Hill,4/28/2019,T,0.9,1,Entire home/apt,4,1 bath,1,2,2,144,4.89,159
+1286,Shaw,4/28/2019,T,1,1,Entire home/apt,2,1 bath,1,1,2,314,4.97,166
+1287,Union Station,6/17/2013,T,,6,Entire home/apt,4,1 bath,1,2,2,197,4.78,104
+1289,Foggy Bottom,9/4/2012,F,0.78,6,Entire home/apt,4,1 bath,,2,31,82,4.77,80
+1290,Georgetown,1/10/2018,T,1,6,Entire home/apt,4,1 bath,,2,31,178,4.97,125
+1292,Shaw,4/25/2013,T,1,1,Entire home/apt,6,1 bath,2,2,2,181,4.96,320
+1295,Union Station,11/2/2015,F,0.97,1986,Entire home/apt,2,1.5 baths,1,1,31,1,1,88
+1296,Shaw,10/15/2015,T,0.98,284,Entire home/apt,6,2.5 baths,2,3,2,80,4.84,344
+1297,Union Station,8/30/2015,T,1,2,Entire home/apt,4,1 bath,1,2,3,42,4.86,79
+1298,Shaw,1/16/2015,F,,1,Entire home/apt,4,1 bath,1,2,28,58,4.98,250
+1299,Union Station,7/27/2013,T,0.95,2,Entire home/apt,6,2 baths,3,3,2,115,4.95,499
+1300,Union Station,10/15/2015,T,0.98,284,Entire home/apt,8,1.5 baths,2,6,31,89,4.82,245
+1302,Union Station,6/28/2018,F,1,5,Entire home/apt,6,1 bath,2,2,31,29,4.79,200
+1303,Union Station,10/2/2013,T,0.97,2,Entire home/apt,6,3.5 baths,3,2,2,12,5,280
+1305,Foggy Bottom,9/19/2018,F,,9,Entire home/apt,3,1 bath,1,1,31,14,4.71,139
+1306,Union Station,6/28/2018,F,1,5,Entire home/apt,10,2 baths,3,3,31,44,4.8,242
+1307,Foggy Bottom,9/19/2018,F,,9,Entire home/apt,5,1 bath,1,1,31,8,4,139
+1310,Capitol Hill,1/31/2014,T,1,2,Entire home/apt,4,1 bath,,2,2,161,4.95,131
+1311,Dupont Circle,4/25/2016,T,0.98,1,Entire home/apt,2,1 bath,1,1,3,170,4.91,199
+1312,Union Station,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,1,31,11,4.45,92
+1313,Dupont Circle,11/2/2015,F,0.97,1986,Entire home/apt,2,1 bath,1,1,31,3,4,127
+1314,Dupont Circle,11/2/2015,F,0.97,1986,Entire home/apt,2,1 bath,1,1,31,4,4.25,122
+1315,Dupont Circle,11/2/2015,F,0.97,1986,Entire home/apt,2,1 bath,1,1,31,4,3.5,127
+1317,Dupont Circle,12/20/2018,F,,1,Entire home/apt,4,1 bath,,1,31,12,4.7,99
+1319,Capitol Hill,6/3/2019,T,0.93,2,Entire home/apt,4,1 bath,1,2,2,110,4.91,175
+1320,Georgetown,9/20/2014,T,1,16,Entire home/apt,5,1 bath,2,3,1,341,4.81,167
+1323,Foggy Bottom,6/5/2019,F,0.94,7,Private room,3,1 private bath,,1,1,196,4.35,234
+1324,Dupont Circle,10/1/2016,F,0.96,3,Entire home/apt,1,1 bath,1,1,3,55,4.42,135
+1327,Dupont Circle,12/6/2015,F,,1,Entire home/apt,4,1 bath,1,3,31,20,5,125
+1328,Capitol Hill,1/2/2017,T,1,1,Entire home/apt,4,1 bath,1,2,2,232,4.96,174
+1334,Dupont Circle,12/16/2016,F,0.97,5607,Entire home/apt,2,1 bath,1,1,32,1,4,156
+1335,Dupont Circle,6/14/2019,F,,10,Private room,2,1 private bath,1,1,31,6,4.67,999
+1336,Union Station,9/23/2016,T,,27,Entire home/apt,3,1 bath,,1,1,28,4.68,92
+1341,Union Station,10/15/2015,T,0.98,284,Entire home/apt,4,1 bath,1,2,3,111,4.91,162
+1342,Shaw,10/8/2011,T,1,1,Entire home/apt,4,2 baths,2,2,2,90,4.94,205
+1345,Dupont Circle,6/19/2019,F,1,11,Entire home/apt,2,1 bath,1,1,1,124,4.85,166
+1346,Dupont Circle,6/19/2019,F,1,11,Entire home/apt,2,1 bath,1,1,1,110,4.65,150
+1349,Dupont Circle,6/19/2019,F,1,11,Entire home/apt,2,1 bath,,1,1,244,4.65,117
+1350,Capitol Hill,7/1/2019,T,0.96,1,Entire home/apt,4,1 bath,1,2,2,164,4.77,113
+1351,Foggy Bottom,12/16/2016,F,0.97,5607,Entire home/apt,2,1 bath,1,1,32,1,5,208
+1352,Capitol Hill,3/21/2016,T,1,2,Entire home/apt,5,1 bath,1,3,1,181,4.89,100
+1353,Capitol Hill,7/7/2019,T,0.94,2,Entire home/apt,2,1 bath,1,1,3,42,4.95,101
+1354,Shaw,10/15/2015,T,0.98,284,Entire home/apt,4,1 bath,1,2,31,87,4.77,153
+1355,Union Station,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,1,31,16,4.63,88
+1356,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,6,2 baths,2,3,31,124,4.78,388
+1357,Union Station,9/2/2013,F,1,14,Entire home/apt,4,1 bath,1,2,2,172,4.91,116
+1358,Capitol Hill,3/15/2015,T,0.93,1,Entire home/apt,2,1 bath,1,1,2,59,4.93,142
+1359,Shaw,11/2/2015,F,0.97,1986,Entire home/apt,2,1 bath,1,1,31,2,3,153
+1361,Capitol Hill,2/24/2016,T,0.99,1,Entire home/apt,4,1 bath,1,1,2,123,4.97,126
+1363,Union Station,10/15/2015,T,0.98,284,Entire home/apt,4,1 bath,2,3,2,121,4.9,256
+1365,Capitol Hill,5/18/2015,F,,1,Entire home/apt,4,1 bath,,1,31,50,4.84,75
+1368,Foggy Bottom,7/27/2019,F,0.97,10,Entire home/apt,4,1 bath,2,2,90,2,5,150
+1370,Capitol Hill,7/5/2019,T,0.98,1,Entire home/apt,2,1 bath,1,2,2,102,4.97,181
+1371,Union Station,9/11/2015,T,,1,Entire home/apt,4,1 bath,1,4,2,192,4.92,108
+1372,Capitol Hill,7/29/2019,F,,1,Entire home/apt,6,1 bath,2,2,31,32,4.9,100
+1375,Georgetown,1/3/2016,T,1,1,Entire home/apt,6,2 baths,2,4,2,161,5,430
+1376,Georgetown,10/14/2018,T,1,1,Entire home/apt,8,3.5 baths,3,5,2,215,4.98,624
+1377,Foggy Bottom,12/16/2016,F,0.97,5607,Entire home/apt,2,1 bath,1,1,32,2,4,213
+1378,Foggy Bottom,12/16/2016,F,0.97,5607,Entire home/apt,2,1 bath,1,1,32,2,5,292
+1379,Union Station,1/9/2015,F,1,2,Entire home/apt,3,1 bath,1,1,31,1,4,80
+1380,Capitol Hill,12/30/2016,T,1,1,Entire home/apt,3,1 bath,1,1,2,148,4.97,130
+1382,Georgetown,4/3/2016,F,,2,Entire home/apt,4,1.5 baths,1,2,31,4,5,175
+1389,Union Station,12/23/2012,T,1,1,Entire home/apt,2,1 bath,1,2,2,97,4.9,79
+1390,Foggy Bottom,12/16/2016,F,0.97,5607,Entire home/apt,2,1 bath,1,1,32,1,5,300
+1392,Union Station,9/2/2013,F,1,14,Entire home/apt,4,1 bath,1,2,2,165,4.96,163
+1393,Capitol Hill,1/30/2015,T,1,1,Entire home/apt,5,1 bath,1,2,2,116,4.89,144
+1395,Dupont Circle,3/5/2015,T,0.73,6,Entire home/apt,2,1 bath,,1,31,72,4.78,80
+1396,Union Station,8/17/2019,F,1,1,Entire home/apt,4,1 bath,1,2,1,52,4.52,146
+1397,Capitol Hill,10/15/2015,T,0.98,284,Entire home/apt,2,1 bath,1,1,3,81,4.84,88
+1399,Union Station,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,2,31,7,4.86,90
+1400,Foggy Bottom,12/16/2016,F,0.97,5607,Entire home/apt,4,1 bath,2,2,32,1,3,327
+1402,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,4,2 baths,2,2,2,171,4.63,324
+1403,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,4,2 baths,2,2,2,153,4.7,266
+1404,Dupont Circle,8/27/2019,T,1,2,Entire home/apt,4,1 bath,2,3,2,206,4.8,268
+1406,Foggy Bottom,8/28/2019,F,1,15,Entire home/apt,4,1 bath,1,1,2,130,4.68,113
+1407,Capitol Hill,3/20/2014,T,0.93,1,Entire home/apt,3,1 bath,1,1,2,130,4.98,200
+1408,Capitol Hill,3/3/2017,T,0.98,1,Entire home/apt,2,1 bath,,1,2,113,4.96,185
+1410,Georgetown,8/26/2019,T,0.98,21,Entire home/apt,4,2 baths,2,2,2,170,4.68,327
+1411,Union Station,4/6/2011,T,0.99,193,Entire home/apt,2,1 bath,1,2,1,35,4.74,76
+1412,Capitol Hill,9/9/2019,T,0.99,2,Entire home/apt,2,1 bath,,1,1,363,4.99,127
+1415,Union Station,10/19/2014,T,0.97,7,Entire home/apt,4,1 bath,1,2,1,457,4.86,183
+1417,Union Station,4/16/2013,T,1,3,Entire home/apt,4,1 bath,1,1,31,197,4.92,79
+1418,Union Station,8/7/2013,T,,1,Entire home/apt,3,1 bath,1,1,2,205,4.88,111
+1419,Shaw,1/17/2015,T,,1,Entire home/apt,2,1 bath,1,2,31,26,4.96,178
+1420,Shaw,10/6/2013,T,,18,Entire home/apt,6,1 bath,2,4,2,55,4.8,343
+1422,Shaw,7/1/2012,T,1,6,Entire home/apt,4,1 bath,1,2,31,94,4.97,144
+1423,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,8,4 baths,4,4,2,13,4.54,724
+1425,Union Station,9/30/2019,F,,1,Entire home/apt,2,1 bath,1,1,31,29,4.59,115
+1429,Union Station,10/7/2019,F,,1,Entire home/apt,2,1 bath,,1,31,2,5,140
+1430,Georgetown,5/18/2009,F,0.99,164,Entire home/apt,6,2 baths,3,3,31,1,0,260
+1433,Union Station,8/27/2014,T,1,4,Entire home/apt,2,1 bath,,1,2,159,4.91,125
+1435,Union Station,5/29/2012,T,1,4,Entire home/apt,6,1 bath,,3,1,292,4.92,109
+1436,Shaw,10/17/2019,T,1,1,Entire home/apt,5,1 bath,2,2,2,224,4.95,198
+1437,Georgetown,10/15/2017,T,,4,Entire home/apt,7,1.5 baths,2,3,31,159,4.81,250
+1438,Foggy Bottom,10/17/2019,F,,1,Entire home/apt,2,1 bath,,1,31,1,0,65
+1441,Capitol Hill,2/11/2016,F,,2,Entire home/apt,4,2 baths,2,2,31,3,5,100
+1442,Dupont Circle,10/24/2019,F,0.99,10,Entire home/apt,2,1 bath,,1,1,127,4.33,242
+1444,Shaw,10/15/2015,T,0.98,284,Entire home/apt,2,1 bath,,1,2,92,4.67,118
+1445,Foggy Bottom,5/31/2016,F,1,3,Entire home/apt,4,1 bath,2,3,4,87,4.75,204
+1446,Capitol Hill,1/9/2014,T,0.99,2,Entire home/apt,5,1 bath,1,1,1,381,4.94,182
+1447,Dupont Circle,4/6/2011,T,0.99,193,Entire home/apt,3,1 bath,1,1,1,78,4.68,121
+1449,Capitol Hill,11/2/2019,T,1,1,Entire home/apt,6,2 baths,2,3,2,59,4.92,426
+1450,Union Station,5/16/2017,F,1,3,Entire home/apt,2,1 bath,,1,3,220,4.87,66
+1452,Union Station,4/6/2011,T,0.99,193,Entire home/apt,3,1 bath,1,2,1,90,4.49,114
+1453,Union Station,11/16/2019,T,1,1,Entire home/apt,4,1 bath,,2,3,84,4.95,92
+1454,Shaw,3/6/2017,T,1,1,Entire home/apt,6,2.5 baths,3,4,3,129,4.98,707
+1455,Dupont Circle,11/17/2019,F,,1,Entire home/apt,2,1 bath,1,1,31,1,4,75
+1459,Dupont Circle,6/9/2017,F,,1,Entire home/apt,4,1 bath,1,3,31,1,5,70
+1460,Union Station,7/9/2012,T,1,3,Entire home/apt,4,1 bath,2,2,31,50,4.68,170
+1462,Union Station,4/17/2016,T,0.99,4,Entire home/apt,2,1 bath,,1,2,166,4.9,130
+1463,Union Station,1/14/2014,F,0.99,12,Entire home/apt,5,1.5 baths,2,2,31,79,4.84,268
+1464,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,2,31,7,4.71,94
+1465,Union Station,2/5/2013,F,0.95,5,Entire home/apt,4,2.5 baths,2,2,31,1,5,349
+1467,Shaw,11/2/2015,F,0.97,1986,Entire home/apt,4,2 baths,2,2,31,1,1,197
+1468,Union Station,5/22/2016,T,1,2,Entire home/apt,8,1.5 baths,3,5,5,37,4.97,340
+1471,Union Station,5/2/2016,T,1,1,Entire home/apt,4,1 bath,1,2,2,130,4.98,231
+1472,Capitol Hill,9/23/2013,T,0.88,2,Entire home/apt,1,1 bath,,2,7,25,4.88,71
+1473,Dupont Circle,9/10/2013,T,1,2,Entire home/apt,4,2 baths,2,2,2,113,4.82,198
+1480,Shaw,5/15/2017,F,,1,Entire home/apt,4,2.5 baths,2,2,31,8,5,249
+1481,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,1,31,49,4.55,189
+1482,Shaw,5/11/2016,F,0.88,8,Shared room,1,1 shared bath,,6,1,5,3.8,73
+1483,Shaw,5/11/2016,F,0.88,8,Shared room,1,1 shared bath,,1,1,184,4.41,74
+1486,Shaw,5/11/2016,F,0.88,8,Shared room,1,1 shared bath,,2,1,1,5,104
+1490,Union Station,9/7/2015,T,0.98,1,Entire home/apt,4,1 bath,2,2,2,205,4.86,237
+1491,Union Station,12/2/2015,F,,2,Entire home/apt,3,1 bath,1,1,31,9,4.89,97
+1492,Union Station,10/6/2019,T,1,1,Entire home/apt,4,1 bath,1,2,1,15,4.93,145
+1494,Dupont Circle,3/23/2018,F,0.74,1,Entire home/apt,2,1 bath,1,1,2,99,4.38,150
+1497,Capitol Hill,7/18/2016,T,1,2,Entire home/apt,4,1 bath,1,2,3,119,4.95,199
+1498,Union Station,6/7/2014,T,1,1,Entire home/apt,6,1 bath,2,4,1,235,4.96,189
+1499,Union Station,2/17/2016,F,,3,Entire home/apt,3,1 bath,1,1,31,4,5,80
+1500,Capitol Hill,4/12/2014,T,0.96,1,Entire home/apt,2,1 bath,1,2,31,78,4.86,119
+1502,Georgetown,7/6/2015,F,0.96,1,Entire home/apt,4,1 bath,1,3,2,60,4.75,165
+1503,Dupont Circle,2/26/2017,T,1,2,Entire home/apt,4,1 bath,1,1,31,238,4.81,114
+1504,Union Station,4/10/2017,T,1,2,Entire home/apt,4,1.5 baths,2,2,3,99,4.97,251
+1505,Shaw,11/10/2017,F,0.62,3,Entire home/apt,4,1 bath,1,2,2,58,4.69,71
+1506,Shaw,8/9/2016,F,0.33,4,Entire home/apt,4,2 baths,2,2,31,6,4.83,175
+1507,Shaw,12/16/2016,F,0.97,5607,Entire home/apt,4,2 baths,2,2,32,1,5,321
+1508,Foggy Bottom,12/29/2021,F,,2,Entire home/apt,5,3 baths,4,5,90,4,4,170
+1509,Georgetown,5/18/2009,F,0.99,164,Entire home/apt,4,1 bath,2,2,31,25,4.25,142
+1511,Union Station,3/24/2016,F,1,3,Entire home/apt,6,2 baths,2,3,31,40,4.13,216
+1512,Union Station,3/24/2016,F,1,3,Entire home/apt,6,2 baths,2,3,31,48,4.65,228
+1515,Union Station,12/19/2012,F,,1,Entire home/apt,2,1.5 baths,1,1,31,10,5,140
+1518,Foggy Bottom,9/19/2018,F,,9,Entire home/apt,3,1 bath,1,1,31,3,4.33,139
+1519,Capitol Hill,10/15/2015,T,0.98,284,Entire home/apt,4,1 bath,1,2,31,38,4.92,119
+1523,Dupont Circle,9/17/2013,T,1,1,Entire home/apt,4,1 bath,1,2,5,74,5,189
+1525,Capitol Hill,9/10/2013,T,0.98,1,Entire home/apt,2,1 bath,1,1,2,107,4.93,123
+1526,Union Station,1/26/2020,F,0,4,Entire home/apt,6,1 bath,2,3,31,40,4.83,160
+1527,Capitol Hill,10/28/2013,T,0.99,2,Entire home/apt,6,2.5 baths,2,2,1,117,4.97,312
+1528,Union Station,2/4/2020,T,0.99,1,Entire home/apt,3,1 bath,1,2,1,122,4.95,104
+1529,Capitol Hill,6/14/2016,T,0.86,1,Entire home/apt,3,1 bath,1,2,2,92,4.95,167
+1535,Shaw,2/12/2020,T,1,1,Entire home/apt,2,1 bath,,1,2,168,4.92,96
+1540,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,6,1 bath,2,2,5,26,4.69,291
+1543,Shaw,2/20/2020,F,,1,Entire home/apt,1,1 bath,1,1,31,1,0,67
+1544,Union Station,10/26/2018,T,,4,Entire home/apt,8,2.5 baths,3,4,31,9,4.89,549
+1545,Capitol Hill,12/19/2015,T,1,1,Entire home/apt,4,1 bath,1,2,3,43,5,193
+1546,Shaw,10/15/2015,T,0.98,284,Entire home/apt,2,1 bath,1,1,2,64,4.92,128
+1550,Union Station,5/30/2012,F,,6,Entire home/apt,4,1 bath,1,3,31,3,5,160
+1551,Capitol Hill,2/16/2015,T,1,5,Entire home/apt,4,1 bath,,2,31,169,4.88,135
+1552,Georgetown,2/6/2015,F,0.95,11,Entire home/apt,7,1.5 baths,2,4,2,99,4.55,316
+1553,Foggy Bottom,11/2/2015,F,0.97,1986,Entire home/apt,4,2 baths,2,2,31,1,1,222
+1554,Foggy Bottom,11/2/2015,F,0.97,1986,Entire home/apt,4,2 baths,2,2,31,6,4.17,176
+1555,Union Station,4/27/2016,T,0.91,19,Entire home/apt,6,1 bath,2,3,2,189,4.74,152
+1556,Union Station,12/16/2016,F,0.97,5607,Entire home/apt,2,1 bath,1,1,32,1,4,169
+1559,Union Station,10/8/2019,T,1,2,Entire home/apt,4,1 bath,2,3,2,147,4.81,179
+1560,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,31,47,4.83,103
+1563,Union Station,11/22/2014,T,0.98,1,Entire home/apt,4,1.5 baths,2,3,2,56,5,249
+1565,Capitol Hill,1/15/2015,T,1,1,Entire home/apt,2,1 bath,1,1,2,104,4.9,133
+1567,Union Station,3/8/2015,T,0.97,1,Entire home/apt,4,1 bath,1,2,3,31,5,135
+1571,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,2,79,4.59,155
+1572,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,1,2,27,4.81,155
+1573,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,1,2,80,4.75,155
+1574,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,6,2 baths,2,2,31,113,4.68,181
+1576,Union Station,9/27/2014,F,,2,Entire home/apt,3,1 bath,1,2,3,26,5,118
+1577,Union Station,2/29/2020,T,1,1,Entire home/apt,3,1 bath,1,2,2,199,4.94,103
+1578,Union Station,4/27/2016,T,0.91,19,Entire home/apt,6,1 bath,2,3,2,186,4.73,138
+1580,Georgetown,1/4/2014,F,0,2,Entire home/apt,2,1 bath,1,2,31,2,5,99
+1581,Union Station,12/3/2019,F,0.43,3,Entire home/apt,4,1.5 baths,2,2,31,7,4.86,259
+1582,Capitol Hill,1/27/2018,T,1,16,Entire home/apt,4,1 bath,1,2,31,34,4.91,236
+1583,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,2,81,4.72,181
+1584,Capitol Hill,5/18/2020,F,1,1,Entire home/apt,6,1 bath,1,3,31,119,4.76,102
+1585,Dupont Circle,3/3/2016,F,0,1,Entire home/apt,2,1 bath,1,1,31,14,5,150
+1587,Dupont Circle,6/19/2019,F,1,11,Entire home/apt,2,1 bath,,1,1,152,4.71,128
+1589,Dupont Circle,6/19/2019,F,1,11,Entire home/apt,2,1 bath,1,1,1,64,4.58,154
+1590,Dupont Circle,3/6/2018,T,1,14,Entire home/apt,2,1.5 baths,1,1,1,10,4.9,270
+1591,Capitol Hill,4/12/2018,T,1,1,Entire home/apt,4,1 bath,1,2,3,102,4.98,170
+1592,Capitol Hill,5/10/2013,T,0.89,1,Entire home/apt,4,1 bath,1,2,1,116,4.94,190
+1595,Foggy Bottom,6/5/2019,F,0.94,7,Private room,4,1 private bath,,2,1,6,4.17,254
+1596,Capitol Hill,3/8/2015,T,1,3,Entire home/apt,2,1 bath,1,1,10,80,4.95,102
+1597,Georgetown,5/18/2009,F,0.99,164,Entire home/apt,5,3 baths,3,3,31,4,5,267
+1598,Foggy Bottom,6/5/2019,F,0.94,7,Private room,3,1 private bath,,1,1,21,4.57,244
+1603,Capitol Hill,9/28/2011,F,0.43,3,Entire home/apt,4,2.5 baths,2,3,4,6,5,200
+1605,Capitol Hill,8/28/2012,T,1,2,Entire home/apt,2,1 bath,1,1,1,169,4.96,160
+1606,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,31,9,4.67,208
+1607,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,31,12,5,112
+1608,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,31,3,5,266
+1613,Capitol Hill,6/26/2015,F,,1,Entire home/apt,2,1 bath,,2,31,11,4.82,99
+1614,Shaw,4/22/2017,F,1,43,Entire home/apt,6,2 baths,2,3,1,70,4.69,318
+1616,Union Station,6/24/2019,F,0.88,1,Entire home/apt,2,1 bath,1,1,2,34,4.91,125
+1617,Shaw,4/22/2017,F,1,43,Entire home/apt,2,1 bath,1,1,1,40,4.55,182
+1618,Shaw,4/22/2017,F,1,43,Entire home/apt,5,1.5 baths,2,3,1,68,4.66,264
+1619,Shaw,4/22/2017,F,1,43,Entire home/apt,2,1 bath,1,1,1,42,4.86,171
+1621,Capitol Hill,11/21/2013,F,,1,Entire home/apt,2,1 bath,1,1,31,20,4.95,110
+1622,Capitol Hill,8/4/2020,T,0.96,1,Entire home/apt,2,1 bath,,1,2,111,4.9,115
+1623,Dupont Circle,3/8/2014,T,0.95,36,Entire home/apt,3,1 bath,1,2,31,9,5,140
+1624,Shaw,4/22/2017,F,1,43,Entire home/apt,4,1 bath,1,2,1,57,4.91,262
+1626,Union Station,7/29/2020,T,1,4,Entire home/apt,5,1.5 baths,2,2,3,74,4.85,279
+1627,Shaw,7/29/2015,F,0.99,339,Entire home/apt,6,2 baths,1,3,31,148,4.8,217
+1628,Capitol Hill,4/17/2014,F,,5,Entire home/apt,10,3.5 baths,4,6,31,16,5,450
+1630,Shaw,7/29/2015,F,0.99,339,Entire home/apt,5,2 baths,2,3,31,71,4.68,260
+1631,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,2 baths,2,3,31,115,4.75,273
+1632,Shaw,7/29/2015,F,0.99,339,Entire home/apt,5,2 baths,2,3,31,83,4.84,153
+1633,Georgetown,4/6/2011,T,0.99,193,Entire home/apt,6,2.5 baths,2,3,1,65,4.83,262
+1634,Capitol Hill,8/21/2011,T,1,2,Entire home/apt,4,2.5 baths,2,2,31,9,5,300
+1635,Capitol Hill,2/8/2018,T,0.94,1,Entire home/apt,4,1 bath,1,2,3,86,4.94,120
+1636,Union Station,8/29/2020,T,1,1,Entire home/apt,6,1 bath,1,3,2,82,4.88,240
+1638,Union Station,8/29/2020,T,0.99,2,Entire home/apt,4,1 bath,1,2,2,192,5,127
+1639,Union Station,5/19/2014,F,,2,Entire home/apt,2,1 bath,1,1,31,2,5,70
+1641,Shaw,1/30/2016,T,1,2,Entire home/apt,4,1 bath,1,2,2,94,4.95,188
+1645,Dupont Circle,5/6/2018,T,1,4,Entire home/apt,4,1 bath,1,1,2,87,4.85,141
+1646,Capitol Hill,11/14/2019,F,0.99,3,Shared room,1,1 shared bath,,6,1,9,4.78,66
+1648,Union Station,1/3/2017,F,1,4,Entire home/apt,6,2.5 baths,3,2,3,68,4.87,255
+1652,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,4,1 bath,2,3,2,181,4.82,302
+1653,Union Station,7/7/2014,T,0.99,2,Entire home/apt,4,1.5 baths,2,3,2,180,4.95,269
+1654,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,1,31,1,5,142
+1655,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,1,28,1,5,142
+1656,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,6,2 baths,2,3,31,19,4.79,288
+1657,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,6,1 bath,2,3,28,1,5,180
+1658,Capitol Hill,1/6/2016,T,1,18,Entire home/apt,4,1 bath,1,2,31,1,5,130
+1659,Capitol Hill,1/6/2016,T,1,18,Entire home/apt,2,1 bath,1,1,31,15,4.8,132
+1660,Capitol Hill,5/5/2018,F,1,2,Entire home/apt,1,1 bath,,1,31,4,5,68
+1662,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,3,1 bath,1,2,12,11,4.55,119
+1663,Shaw,9/12/2014,T,0.5,1,Entire home/apt,2,1 bath,1,1,60,10,4.8,118
+1664,Capitol Hill,10/6/2020,T,1,1,Entire home/apt,6,1 bath,2,4,3,184,4.99,309
+1665,Shaw,7/12/2018,F,,4,Entire home/apt,2,1 bath,1,3,1,228,4.96,190
+1667,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,2,124,4.75,144
+1669,Union Station,12/13/2012,T,0.97,2,Entire home/apt,6,1.5 baths,2,4,3,147,4.93,197
+1670,Dupont Circle,12/31/2019,T,,1,Entire home/apt,3,1 bath,1,3,31,111,4.75,60
+1673,Foggy Bottom,6/14/2019,F,,10,Private room,6,2.5 shared baths,2,4,31,8,4.75,750
+1674,Capitol Hill,4/23/2019,T,0.99,8,Entire home/apt,5,1 bath,1,5,1,121,4.96,189
+1675,Union Station,10/20/2016,T,0.93,1,Entire home/apt,4,1 bath,1,1,3,53,4.98,134
+1676,Capitol Hill,4/23/2019,T,0.99,8,Entire home/apt,3,1 bath,,2,1,134,4.93,170
+1677,Capitol Hill,4/23/2019,T,0.99,8,Entire home/apt,3,1 bath,,2,1,97,4.95,161
+1678,Capitol Hill,4/23/2019,T,0.99,8,Entire home/apt,5,1 bath,1,5,1,107,4.92,181
+1679,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,1,31,9,4.78,85
+1680,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,1,31,6,4.83,84
+1682,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,5,1 bath,2,2,31,2,4,129
+1685,Union Station,9/2/2013,F,1,14,Entire home/apt,4,1 bath,1,1,2,84,4.95,137
+1688,Union Station,10/2/2017,T,0.8,2,Entire home/apt,3,1 bath,1,2,31,36,4.64,105
+1689,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,31,41,4.76,244
+1690,Dupont Circle,7/22/2013,F,0.24,221,Entire home/apt,4,1 bath,1,1,31,1,5,133
+1691,Union Station,6/28/2011,T,0.92,1,Entire home/apt,2,1 bath,,2,2,31,4.84,135
+1692,Dupont Circle,7/22/2013,F,0.24,221,Entire home/apt,2,1 bath,1,1,31,1,5,127
+1694,Shaw,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,30,30,4.73,137
+1695,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,31,5,4.8,103
+1696,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,5,2 baths,2,3,31,1,3,147
+1697,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,6,2 baths,2,3,31,2,5,147
+1698,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,6,2 baths,1,3,31,2,5,98
+1699,Shaw,7/29/2015,F,0.99,339,Entire home/apt,6,2 baths,2,3,30,29,4.72,289
+1700,Shaw,10/28/2013,T,0.99,16,Entire home/apt,2,1 bath,1,1,31,39,4.82,109
+1702,Capitol Hill,10/13/2014,T,0.97,6,Entire home/apt,4,1 bath,2,3,1,99,4.94,257
+1703,Shaw,8/19/2014,F,,1,Entire home/apt,4,2.5 baths,2,2,3,12,4.83,420
+1704,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,6,2 baths,2,3,31,5,5,257
+1705,Union Station,1/9/2014,F,0.33,2,Entire home/apt,8,3.5 baths,3,4,31,8,5,325
+1707,Capitol Hill,10/13/2014,T,0.97,6,Entire home/apt,2,1 bath,,1,1,237,4.95,207
+1708,Union Station,7/22/2013,F,0.24,221,Entire home/apt,4,2.5 baths,2,2,31,1,5,198
+1709,Georgetown,7/22/2013,F,0.24,221,Entire home/apt,2,1 bath,,1,31,1,3,118
+1710,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,2,31,9,4.33,97
+1711,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,31,1,4,98
+1712,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,3,1 bath,1,2,31,2,4,101
+1713,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,31,5,4.2,103
+1715,Dupont Circle,7/22/2013,F,0.24,221,Entire home/apt,5,1 bath,2,2,31,1,4,167
+1716,Georgetown,11/7/2011,F,,1,Entire home/apt,4,1 bath,1,2,31,10,4.9,110
+1717,Dupont Circle,7/22/2013,F,0.24,221,Entire home/apt,2,1 bath,1,1,31,2,4.5,125
+1718,Foggy Bottom,7/22/2013,F,0.24,221,Entire home/apt,3,1 bath,1,1,31,2,3.5,101
+1720,Capitol Hill,2/10/2016,T,1,1,Entire home/apt,5,1.5 baths,3,3,31,25,5,400
+1721,Georgetown,4/6/2011,T,0.99,193,Entire home/apt,3,1 bath,1,2,1,66,4.62,157
+1722,Dupont Circle,11/1/2015,F,0.17,3,Entire home/apt,4,1 bath,1,1,51,5,5,210
+1724,Dupont Circle,3/14/2012,T,0.94,3,Entire home/apt,4,1 bath,1,2,31,13,4.77,109
+1725,Capitol Hill,10/13/2014,T,0.97,6,Entire home/apt,6,1 bath,2,5,1,76,4.95,273
+1726,Foggy Bottom,5/26/2012,F,0,2,Entire home/apt,2,1 bath,,1,90,1,5,65
+1727,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,2.5 baths,2,2,31,26,4.96,263
+1729,Union Station,4/18/2018,F,1,2,Entire home/apt,3,1 bath,1,1,2,9,4.89,100
+1730,Union Station,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,2,31,5,5,87
+1731,Dupont Circle,3/8/2016,F,,1,Entire home/apt,4,1.5 baths,1,2,31,2,5,95
+1732,Capitol Hill,1/9/2013,T,0.97,2,Entire home/apt,2,1 bath,1,1,2,22,5,10
+1733,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,31,15,4.6,183
+1734,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,25,4.68,103
+1735,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,35,4.8,240
+1740,Capitol Hill,12/2/2020,F,0.75,1,Entire home/apt,6,2.5 baths,3,2,2,9,5,999
+1741,Dupont Circle,2/27/2016,F,1,3,Entire home/apt,2,1 bath,,2,31,10,5,110
+1742,Foggy Bottom,1/18/2019,F,,1,Entire home/apt,1,1 bath,,1,31,1,1,110
+1744,Capitol Hill,4/24/2012,T,0.97,1,Entire home/apt,2,1 bath,1,1,3,48,4.88,131
+1745,Dupont Circle,6/3/2017,T,0.98,7,Entire home/apt,2,1 bath,1,1,31,5,5,105
+1747,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,2,103,4.82,185
+1748,Union Station,3/24/2018,F,0.98,1,Entire home/apt,5,2.5 baths,2,2,2,37,4.73,229
+1749,Union Station,4/27/2016,T,0.91,19,Entire home/apt,8,2 baths,2,4,2,151,4.74,253
+1750,Union Station,4/27/2016,T,0.91,19,Entire home/apt,8,2 baths,2,4,2,175,4.82,284
+1751,Union Station,11/23/2014,F,,2,Entire home/apt,8,3 baths,4,4,31,3,5,250
+1754,Capitol Hill,5/14/2018,F,0.99,4,Entire home/apt,4,1 bath,2,3,2,125,4.72,203
+1755,Capitol Hill,11/25/2020,F,,4,Entire home/apt,8,4 baths,4,4,31,12,4.75,350
+1756,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,3,1 bath,1,1,2,53,4.62,220
+1757,Dupont Circle,7/22/2013,F,0.24,221,Entire home/apt,2,1 bath,1,1,31,4,4.75,127
+1758,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,1,2,5,176
+1759,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,2,31,20,4.7,285
+1761,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,48,4.71,138
+1762,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,2,4.5,106
+1763,Shaw,4/22/2017,F,1,43,Entire home/apt,4,1 bath,1,2,1,42,4.74,200
+1764,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,5,1 bath,2,2,31,3,4.67,164
+1766,Capitol Hill,10/17/2012,F,0.93,1,Entire home/apt,4,1 bath,1,2,2,68,4.81,129
+1769,Capitol Hill,8/24/2015,T,1,1,Entire home/apt,4,1 bath,1,2,2,65,4.98,194
+1770,Georgetown,2/10/2015,F,,1,Entire home/apt,4,1 bath,,2,365,2,5,198
+1771,Georgetown,9/20/2014,T,1,16,Entire home/apt,5,1.5 baths,2,3,31,205,4.86,200
+1772,Union Station,12/30/2020,F,0.96,1,Entire home/apt,6,2 baths,3,3,2,129,4.68,257
+1773,Union Station,12/13/2012,T,0.97,2,Entire home/apt,4,1 bath,1,1,1,172,4.91,118
+1775,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,3,1 bath,1,2,31,49,4.73,178
+1777,Foggy Bottom,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,31,1,5,479
+1778,Union Station,7/27/2014,F,0.83,3,Entire home/apt,8,3.5 baths,4,4,3,1,5,489
+1779,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,4,1 bath,2,2,2,130,4.89,270
+1780,Union Station,8/25/2017,T,1,1,Entire home/apt,8,3.5 baths,3,3,2,104,4.85,367
+1781,Capitol Hill,3/10/2013,F,,1,Entire home/apt,3,1 bath,,1,31,15,4.87,118
+1782,Shaw,1/26/2021,F,1,41,Private room,4,1 private bath,,1,1,32,4.63,171
+1783,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,42,4.6,171
+1784,Dupont Circle,1/25/2021,F,0.97,1,Entire home/apt,2,1 bath,,2,2,120,4.71,140
+1786,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,19,4.74,171
+1787,Shaw,1/26/2021,F,1,41,Private room,4,1 private bath,,1,1,24,4.63,171
+1788,Shaw,1/26/2021,F,1,41,Private room,4,1 private bath,,1,1,6,4,171
+1789,Dupont Circle,1/30/2021,T,1,8,Entire home/apt,2,1 bath,,1,31,106,4.93,89
+1790,Shaw,1/30/2021,T,1,8,Entire home/apt,2,1 bath,,1,31,114,4.87,99
+1791,Capitol Hill,3/29/2018,F,0.99,489,Entire home/apt,2,1 bath,1,1,31,23,4.26,125
+1792,Georgetown,9/20/2014,T,1,16,Entire home/apt,2,1 bath,,1,1,232,4.74,109
+1794,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,29,4.72,170
+1796,Shaw,1/26/2021,F,1,41,Private room,4,1 private bath,,1,1,29,4.69,171
+1797,Union Station,3/12/2017,F,1,1,Entire home/apt,6,2.5 baths,3,3,2,118,4.61,189
+1798,Shaw,10/8/2014,T,0.97,1,Entire home/apt,2,1 bath,1,1,2,133,4.92,178
+1800,Capitol Hill,1/27/2018,T,1,16,Entire home/apt,3,1 bath,1,2,31,24,4.75,228
+1801,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,97,4.54,171
+1802,Union Station,2/17/2021,T,0.99,1,Entire home/apt,4,1 bath,1,2,2,144,4.9,175
+1804,Shaw,1/26/2021,F,1,41,Private room,3,1 private bath,,1,31,61,4.51,171
+1805,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,8,4.63,171
+1807,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,20,4.3,171
+1809,Shaw,1/26/2021,F,1,41,Private room,4,1 private bath,,1,1,17,4.29,171
+1810,Shaw,4/6/2018,F,0.83,11,Entire home/apt,6,2.5 baths,3,3,31,16,4.63,234
+1811,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,30,13,4.31,218
+1812,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,3,1 bath,1,1,1,8,4.75,215
+1813,Shaw,1/26/2021,F,1,41,Private room,4,1 private bath,,1,1,109,4.64,171
+1814,Shaw,1/26/2021,F,1,41,Private room,4,1 private bath,,1,1,4,4.5,171
+1815,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,7,3.86,171
+1816,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,43,4.35,171
+1818,Capitol Hill,2/27/2021,F,1,3,Entire home/apt,6,2.5 baths,3,5,31,54,4.74,321
+1819,Foggy Bottom,9/4/2012,F,0.78,6,Entire home/apt,4,1 bath,,2,31,37,4.54,120
+1820,Shaw,10/28/2013,T,0.99,16,Entire home/apt,10,3 baths,4,5,2,62,4.95,568
+1821,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,1,86,4.65,153
+1822,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,6,2 baths,2,3,2,86,4.66,199
+1823,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,1,2,66,4.65,150
+1824,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,13,4.15,171
+1825,Shaw,1/26/2021,F,1,41,Private room,4,1 private bath,,1,1,21,4.29,171
+1827,Union Station,1/12/2017,T,0.98,2,Entire home/apt,4,1 bath,1,2,3,68,4.82,163
+1828,Union Station,3/3/2021,T,0.98,1,Entire home/apt,6,2 baths,3,3,2,79,4.92,260
+1829,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,2,3,171
+1830,Shaw,1/26/2021,F,1,41,Private room,4,1 private bath,,1,1,45,4.76,171
+1831,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,33,4.39,179
+1832,Shaw,1/26/2021,F,1,41,Private room,4,1 private bath,,1,1,12,4.5,171
+1833,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,42,4.64,171
+1834,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,5,4.4,171
+1835,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,10,4.7,171
+1836,Union Station,6/24/2012,T,0.99,2,Entire home/apt,2,1 bath,1,1,2,127,4.99,139
+1838,Capitol Hill,8/6/2018,F,0.94,2,Entire home/apt,3,1 bath,1,1,31,18,4.67,91
+1839,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,39,4.59,171
+1840,Shaw,1/26/2021,F,1,41,Private room,3,1 private bath,,1,1,60,4.42,171
+1841,Foggy Bottom,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,2,1,31,17,4.82,201
+1842,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,1,31,3,5,123
+1843,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,24,4.63,171
+1846,Dupont Circle,3/11/2021,F,0.99,9,Entire home/apt,2,1 bath,1,1,1,48,4.58,95
+1847,Dupont Circle,3/11/2021,F,0.99,9,Entire home/apt,3,1 bath,1,2,1,77,4.74,106
+1848,Dupont Circle,3/11/2021,F,0.99,9,Entire home/apt,3,1 bath,1,2,1,102,4.46,131
+1849,Dupont Circle,3/11/2021,F,0.99,9,Entire home/apt,3,1 bath,1,2,1,87,4.47,109
+1850,Union Station,5/18/2009,F,0.99,164,Entire home/apt,4,1.5 baths,2,2,31,7,4.57,146
+1851,Capitol Hill,3/15/2021,F,1,1,Entire home/apt,4,1 bath,1,4,2,126,4.67,202
+1852,Union Station,12/15/2014,T,0.99,1,Entire home/apt,4,1 bath,2,2,2,134,4.89,295
+1853,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,1,31,6,4.67,85
+1854,Union Station,4/23/2019,T,0.99,8,Entire home/apt,2,1 bath,1,2,31,4,5,110
+1855,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,1,31,3,5,82
+1856,Union Station,4/23/2019,T,0.99,8,Entire home/apt,4,1 bath,2,4,31,6,5,110
+1857,Union Station,4/23/2019,T,0.99,8,Entire home/apt,4,1 bath,2,2,31,12,4.83,110
+1858,Union Station,4/23/2019,T,0.99,8,Entire home/apt,4,1 bath,2,4,31,14,4.86,145
+1860,Dupont Circle,3/11/2021,F,0.99,7,Private room,3,1 private bath,,1,1,28,4.86,320
+1861,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,5,3.2,171
+1862,Shaw,1/26/2021,F,1,41,Private room,3,1 private bath,,1,1,36,4.39,171
+1863,Shaw,1/26/2021,F,1,41,Private room,5,1 private bath,,2,1,58,4.6,171
+1864,Shaw,1/26/2021,F,1,41,Private room,3,1 private bath,,1,1,58,4.66,171
+1865,Shaw,1/26/2021,F,1,41,Private room,3,1 shared bath,,2,1,19,4.32,171
+1866,Shaw,1/26/2021,F,1,41,Private room,3,1 private bath,,1,1,8,3.88,171
+1868,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,30,36,4.83,192
+1870,Dupont Circle,7/22/2013,F,0.24,221,Entire home/apt,2,1 bath,1,1,31,1,5,138
+1871,Shaw,1/26/2021,F,1,41,Private room,3,1 private bath,,1,1,14,4.07,171
+1872,Shaw,1/26/2021,F,1,41,Private room,3,1 private bath,,1,1,79,4.54,171
+1873,Union Station,7/26/2014,T,,1,Entire home/apt,2,1 bath,1,1,2,94,4.96,141
+1874,Georgetown,9/7/2014,F,1,2,Entire home/apt,1,1 bath,1,1,31,2,5,60
+1875,Dupont Circle,1/30/2021,T,1,8,Entire home/apt,6,2 baths,3,4,1,80,4.93,349
+1877,Shaw,1/26/2021,F,1,41,Private room,3,1 private bath,,1,1,6,4,171
+1878,Shaw,1/26/2021,F,1,41,Private room,3,1 private bath,,1,1,102,4.65,171
+1879,Dupont Circle,7/29/2015,F,0.99,339,Private room,2,1 private bath,1,1,1,104,4.67,105
+1881,Shaw,1/26/2021,F,1,41,Private room,3,1 private bath,,1,1,42,4.31,171
+1882,Union Station,1/2/2020,T,1,2,Entire home/apt,1,1 bath,1,1,2,14,4.86,79
+1884,Union Station,2/13/2012,T,0.99,2,Entire home/apt,4,1 bath,1,2,2,106,4.96,136
+1887,Capitol Hill,4/7/2021,F,0.97,11,Entire home/apt,4,1 bath,1,1,3,34,4.38,122
+1888,Union Station,4/9/2021,T,0.97,1,Entire home/apt,3,1 bath,2,2,3,62,4.97,161
+1889,Union Station,4/25/2015,T,1,1,Entire home/apt,6,1 bath,2,2,1,188,4.89,231
+1890,Shaw,6/30/2015,T,1,1,Entire home/apt,4,2 baths,2,2,1,152,4.99,278
+1891,Capitol Hill,10/3/2015,T,1,16,Entire home/apt,6,2 baths,2,4,2,130,4.95,377
+1894,Union Station,3/25/2013,F,0.99,8001,Private room,4,1 bath,1,2,2,5,5,315
+1895,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,22,4.64,253
+1896,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,2 baths,2,3,31,18,4.72,403
+1897,Capitol Hill,2/22/2016,T,1,1,Entire home/apt,4,1 bath,1,2,2,88,4.99,163
+1898,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,5,1 bath,2,2,31,55,4.67,302
+1899,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,3,1 bath,1,2,2,71,4.76,224
+1900,Capitol Hill,5/22/2016,T,0.92,1,Entire home/apt,3,1 bath,1,2,1,56,4.93,115
+1901,Dupont Circle,8/2/2016,T,1,2,Entire home/apt,2,1 bath,1,1,3,32,4.94,145
+1905,Union Station,4/2/2018,F,1,10,Entire home/apt,4,1 bath,2,3,3,44,4.77,249
+1906,Dupont Circle,3/17/2014,F,1,3,,2,1 bath,1,1,2,92,4.71,151
+1908,Dupont Circle,10/16/2014,T,1,4,Entire home/apt,5,2 baths,2,3,1,63,4.79,230
+1911,Shaw,12/22/2013,T,0.75,1,Entire home/apt,6,1.5 baths,3,3,3,47,5,379
+1912,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,6,1 bath,2,3,31,1,5,147
+1913,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,31,1,4,147
+1914,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,5,1 bath,2,3,31,1,5,162
+1916,Dupont Circle,6/8/2015,T,0.98,3,Entire home/apt,2,1 bath,,2,1,120,4.83,136
+1919,Dupont Circle,1/18/2015,T,0.99,1,Entire home/apt,5,1 bath,2,3,1,139,4.94,227
+1921,Union Station,7/29/2015,F,0.99,339,Entire home/apt,9,2.5 baths,4,6,2,56,4.91,421
+1922,Georgetown,11/6/2015,F,,1,Entire home/apt,6,1.5 baths,2,4,31,7,4.86,238
+1923,Foggy Bottom,12/16/2016,F,0.97,5607,Entire home/apt,2,1 bath,1,1,32,1,3,270
+1924,Dupont Circle,5/10/2021,T,0.99,1,Entire home/apt,3,1 bath,1,2,2,118,4.97,182
+1925,Union Station,6/4/2012,T,1,1,Entire home/apt,4,1 bath,1,2,1,159,4.91,130
+1926,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,31,12,4.42,230
+1928,Union Station,5/7/2019,T,0.98,17,Entire home/apt,10,3 baths,3,4,2,161,4.87,284
+1929,Union Station,5/7/2019,T,0.98,17,Entire home/apt,10,3 baths,3,4,2,162,4.86,392
+1930,Georgetown,5/18/2009,F,0.99,164,Entire home/apt,5,3.5 baths,3,3,31,1,5,333
+1932,Shaw,5/17/2021,T,0.99,2,Entire home/apt,4,1 bath,1,2,2,110,4.8,217
+1937,Capitol Hill,12/6/2017,T,1,2,Entire home/apt,3,1 bath,1,2,1,150,4.97,108
+1938,Union Station,9/11/2015,T,0.99,1,Entire home/apt,5,1 bath,1,3,2,108,4.96,149
+1940,Shaw,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,1,71,4.82,153
+1943,Dupont Circle,7/22/2013,F,0.24,221,Entire home/apt,3,1.5 baths,1,1,31,1,5,139
+1944,Union Station,7/22/2013,F,0.24,221,Entire home/apt,4,2 baths,2,2,31,1,5,209
+1945,Shaw,7/22/2013,F,0.24,221,Entire home/apt,2,1 bath,1,1,31,1,4,127
+1946,Dupont Circle,7/22/2013,F,0.24,221,Entire home/apt,3,1 bath,1,1,31,1,4,106
+1947,Georgetown,9/20/2014,T,1,16,Entire home/apt,4,1 bath,2,2,1,200,4.73,176
+1948,Union Station,2/23/2015,T,1,1,Entire home/apt,6,1 bath,2,3,2,160,4.91,201
+1950,Shaw,1/24/2019,F,1,6,Entire home/apt,10,2 baths,5,5,1,25,4.44,633
+1951,Shaw,1/24/2019,F,1,6,Shared room,2,2 shared baths,,1,1,40,4.6,117
+1953,Union Station,9/23/2016,T,,27,Entire home/apt,11,2.5 baths,4,5,1,50,4.72,512
+1954,Union Station,4/6/2011,T,0.99,193,Entire home/apt,2,1 bath,1,1,2,85,4.74,176
+1955,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,1,1,49,4.78,279
+1956,Dupont Circle,4/3/2016,T,1,1,,4,1 bath,1,2,1,101,5,221
+1957,Dupont Circle,7/22/2013,F,0.24,221,Entire home/apt,3,1 bath,1,1,31,1,1,145
+1959,Capitol Hill,6/5/2021,T,0.99,1,Entire home/apt,4,1 bath,1,2,2,83,4.88,190
+1960,Shaw,1/24/2019,F,1,6,Shared room,2,2 shared baths,,1,1,26,4.38,117
+1961,Shaw,1/24/2019,F,1,6,Shared room,2,2 shared baths,,1,1,34,4.35,117
+1962,Shaw,1/24/2019,F,1,6,Shared room,2,2 shared baths,,1,1,44,4.57,117
+1963,Shaw,1/24/2019,F,1,6,Shared room,2,2 shared baths,,1,1,43,4.6,117
+1965,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,2,31,11,4.82,88
+1966,Union Station,7/10/2014,T,1,1,Entire home/apt,2,1 bath,1,1,2,18,4.89,155
+1968,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,5,1 bath,2,2,2,121,4.88,330
+1970,Shaw,2/16/2015,T,1,5,Entire home/apt,4,1 bath,1,1,1,173,4.91,178
+1973,Union Station,5/21/2021,F,0.88,3,Entire home/apt,4,1 bath,1,2,31,44,4.93,100
+1974,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,48,4.94,272
+1975,Capitol Hill,6/17/2013,T,0.95,2,Entire home/apt,3,1 bath,1,1,3,38,4.84,190
+1977,Shaw,6/16/2021,T,0.99,1,Entire home/apt,6,1 bath,2,2,1,182,4.99,213
+1980,Shaw,8/18/2019,T,0.99,1,Entire home/apt,2,1 bath,1,1,2,107,4.91,159
+1985,Union Station,8/3/2016,F,,1,Entire home/apt,3,1 bath,,1,2,21,4.95,86
+1988,Union Station,12/23/2014,F,0.99,2244,Private room,8,2 baths,2,4,1,2,5,703
+1989,Union Station,11/27/2016,T,0.99,1,Entire home/apt,2,1 bath,1,1,2,87,4.86,95
+1991,Capitol Hill,8/29/2013,T,0.96,2,Entire home/apt,6,2.5 baths,3,3,1,40,4.98,453
+1993,Dupont Circle,4/6/2018,F,0.83,11,Entire home/apt,4,1 bath,1,2,31,2,5,105
+1995,Dupont Circle,7/5/2021,F,,1,Entire home/apt,4,1 bath,1,2,31,10,4.8,149
+1997,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,8,3 baths,4,4,2,4,4.75,823
+1998,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,9,3 baths,4,5,2,3,4.33,1107
+2000,Capitol Hill,5/5/2016,T,1,2,Entire home/apt,4,1 bath,1,2,31,3,4.67,120
+2002,Capitol Hill,3/16/2012,T,0.97,1,Entire home/apt,4,1 bath,1,2,3,45,4.98,210
+2003,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,2,31,7,4.86,79
+2006,Shaw,6/17/2017,T,0.89,1,Entire home/apt,3,1 bath,1,2,2,32,4.97,170
+2007,Dupont Circle,4/6/2018,F,0.83,11,Entire home/apt,2,1 bath,1,1,31,11,4.91,88
+2010,Union Station,8/5/2014,T,0.97,6,Entire home/apt,4,1 bath,1,2,2,122,5,176
+2011,Shaw,6/18/2012,F,1,1,Entire home/apt,2,1 bath,1,1,28,5,4.8,163
+2012,Capitol Hill,7/7/2018,F,0.99,1,Entire home/apt,4,1 bath,1,2,3,63,4.63,122
+2014,Dupont Circle,7/22/2013,F,0.24,221,Entire home/apt,3,1 bath,1,1,31,1,4,120
+2015,Capitol Hill,5/14/2014,F,,4,Entire home/apt,2,1 bath,1,1,31,7,5,120
+2017,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,1,31,4,5,99
+2018,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,4,1 bath,2,2,31,5,5,110
+2019,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,2,5,103
+2023,Union Station,8/5/2021,T,0.99,1,Entire home/apt,4,1 bath,2,3,2,125,4.91,257
+2025,Capitol Hill,2/12/2020,T,0.99,1,Entire home/apt,6,1 bath,2,3,2,108,4.86,304
+2026,Shaw,9/15/2014,T,0.96,3,Entire home/apt,2,1 bath,1,2,5,58,4.88,167
+2027,Shaw,7/29/2015,F,0.99,339,Entire home/apt,6,2 baths,2,3,31,56,4.88,236
+2028,Capitol Hill,8/14/2020,F,,1,Entire home/apt,4,1 bath,2,2,31,24,4.58,271
+2029,Shaw,8/16/2020,F,0.99,4,Entire home/apt,5,1 bath,2,3,1,112,4.79,213
+2032,Capitol Hill,5/11/2015,T,0.98,27,Entire home/apt,4,2 baths,2,2,4,31,4.65,254
+2033,Union Station,5/18/2013,F,0.76,3,Entire home/apt,3,1 bath,1,1,2,15,5,102
+2034,Georgetown,5/14/2012,T,0.99,3,Entire home/apt,2,1 bath,1,1,2,113,4.85,117
+2035,Union Station,7/10/2014,F,1,8,Entire home/apt,2,1 bath,1,1,14,1,1,108
+2036,Union Station,11/21/2020,T,0.78,2,Entire home/apt,1,1 bath,,1,5,10,5,130
+2037,Union Station,10/15/2015,T,0.98,1,Entire home/apt,6,1 bath,2,3,1,186,4.9,208
+2038,Capitol Hill,10/15/2018,T,0.95,2,Entire home/apt,2,1 bath,1,1,2,45,4.98,125
+2040,Union Station,9/5/2012,T,0.97,1,Entire home/apt,3,1 bath,1,2,3,39,4.79,85
+2042,Dupont Circle,10/15/2015,T,0.98,284,Entire home/apt,8,2 baths,3,4,3,59,4.71,273
+2044,Union Station,5/29/2012,T,1,4,Entire home/apt,4,1 bath,,2,1,154,4.92,126
+2045,Union Station,8/30/2021,F,0.94,2,Entire home/apt,6,2.5 baths,2,4,31,15,4.67,331
+2046,Dupont Circle,2/6/2015,T,1,2,Entire home/apt,2,1 bath,1,1,3,71,5,230
+2047,Dupont Circle,8/13/2013,F,0.99,196,Entire home/apt,6,2 baths,3,3,7,33,4.64,460
+2048,Dupont Circle,8/13/2013,F,0.99,196,Entire home/apt,6,3 baths,3,3,7,39,4.44,309
+2049,Capitol Hill,9/1/2021,T,1,1,Entire home/apt,4,1 bath,2,3,3,24,4.96,173
+2050,Capitol Hill,8/21/2016,T,1,1,Entire home/apt,4,1 bath,2,2,2,71,5,296
+2051,Union Station,6/1/2021,T,1,2,Entire home/apt,15,3.5 baths,4,6,2,33,4.79,636
+2054,Capitol Hill,5/16/2011,T,0.95,1,Entire home/apt,2,1 bath,,1,1,89,4.89,75
+2057,Capitol Hill,4/7/2021,F,0.97,11,Entire home/apt,6,2 baths,2,3,3,20,3.9,253
+2058,Georgetown,5/18/2009,F,0.99,164,Entire home/apt,4,2 baths,2,2,31,2,5,189
+2059,Capitol Hill,5/11/2015,T,0.98,27,Entire home/apt,6,4 baths,4,4,4,28,4.79,347
+2060,Dupont Circle,10/8/2018,F,0.99,83,Private room,2,1 bath,,1,1,51,4.16,180
+2061,Dupont Circle,10/8/2018,F,0.99,83,Private room,2,1 bath,,1,1,55,4.49,219
+2062,Dupont Circle,10/8/2018,F,0.99,83,Private room,2,1 bath,,1,1,2,4.5,235
+2063,Dupont Circle,10/8/2018,F,0.99,83,Private room,2,1 bath,,1,1,421,4.44,203
+2064,Dupont Circle,10/8/2018,F,0.99,83,Private room,2,1 bath,,1,1,120,4.48,211
+2065,Shaw,9/13/2021,T,0.99,1,Entire home/apt,2,1 bath,,1,2,103,4.83,131
+2066,Union Station,12/16/2016,F,0.97,5607,Entire home/apt,2,1 bath,1,1,32,2,5,186
+2067,Union Station,9/18/2021,F,1,2,Entire home/apt,8,3.5 baths,3,5,5,26,4.65,225
+2069,Union Station,10/7/2011,T,0.91,1,Entire home/apt,4,1 bath,1,1,2,114,4.98,152
+2070,Georgetown,4/6/2011,T,0.99,193,Entire home/apt,5,1.5 baths,2,2,2,54,4.87,252
+2071,Georgetown,4/6/2011,T,0.99,193,Entire home/apt,3,1 bath,1,1,1,49,4.76,148
+2072,Georgetown,4/6/2011,T,0.99,193,Entire home/apt,7,2.5 baths,3,3,2,27,4.81,400
+2075,Foggy Bottom,2/22/2021,F,0.98,6,Entire home/apt,2,1 bath,1,1,1,20,4.7,208
+2076,Foggy Bottom,2/22/2021,F,0.98,6,Entire home/apt,4,1 bath,1,1,1,52,4.58,246
+2077,Capitol Hill,5/11/2016,T,0.97,8,Entire home/apt,4,2 baths,2,2,2,8,5,350
+2078,Shaw,9/7/2021,F,1,6,Entire home/apt,4,1 bath,1,2,1,17,4.59,200
+2079,Shaw,9/7/2021,F,1,6,Entire home/apt,4,1 bath,1,2,1,23,4.57,194
+2080,Shaw,9/7/2021,F,1,6,Entire home/apt,5,1 bath,2,3,1,47,4.87,275
+2081,Shaw,9/7/2021,F,1,6,Entire home/apt,4,1 bath,1,2,1,23,4.65,205
+2082,Dupont Circle,10/8/2015,T,1,2,Entire home/apt,2,1 bath,1,1,2,60,4.93,164
+2085,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,15,4.2,180
+2086,Union Station,9/29/2021,T,0.97,2,Entire home/apt,5,2 baths,3,3,3,40,4.9,426
+2087,Dupont Circle,1/22/2015,T,1,1,Entire home/apt,4,2 baths,2,2,31,19,4.89,135
+2089,Shaw,10/2/2021,T,1,1,Entire home/apt,4,1 bath,2,3,1,140,4.91,156
+2090,Union Station,6/1/2021,T,1,2,Entire home/apt,10,2.5 baths,3,4,31,5,5,589
+2092,Union Station,6/16/2016,T,1,1,Entire home/apt,4,1 bath,1,1,1,138,4.93,125
+2093,Union Station,9/2/2013,F,1,14,Entire home/apt,4,1 bath,1,2,2,72,4.74,105
+2094,Union Station,9/23/2016,T,,27,Entire home/apt,2,1 bath,1,1,2,11,4.91,1000
+2096,Capitol Hill,12/27/2014,F,1,2,Entire home/apt,4,1 bath,1,2,2,89,4.7,80
+2097,Capitol Hill,9/30/2014,F,,1,Entire home/apt,2,1 bath,1,1,1,26,5,129
+2099,Capitol Hill,10/4/2021,F,1,1,Entire home/apt,4,1 bath,1,1,1,85,4.89,120
+2100,Shaw,10/15/2021,T,0.97,1,Entire home/apt,4,2.5 baths,2,3,3,19,5,685
+2103,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,6,4.33,168
+2104,Union Station,6/1/2017,T,1,1,Entire home/apt,2,1 bath,1,1,8,36,4.86,92
+2105,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,2 baths,2,2,31,1,5,154
+2106,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,2,20,4.6,135
+2107,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,2,5,103
+2108,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,3,1 bath,1,2,2,27,4.85,171
+2109,Union Station,5/26/2021,F,1,1,Entire home/apt,4,1 bath,1,4,3,50,4.82,169
+2110,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,4,5,302
+2111,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,2,1 bath,,1,2,115,4.83,179
+2112,Capitol Hill,5/16/2013,T,0.97,3,Entire home/apt,2,1 bath,1,1,2,43,4.93,120
+2113,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,2,1 bath,,1,2,104,4.89,194
+2114,Capitol Hill,10/25/2021,T,0.96,7,Entire home/apt,2,1 bath,1,1,31,84,4.81,152
+2115,Capitol Hill,11/4/2020,T,0.98,1,Entire home/apt,2,1 bath,1,2,2,117,4.97,105
+2116,Capitol Hill,10/12/2021,T,1,6,Entire home/apt,5,1 bath,2,2,31,27,4.78,120
+2117,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,3,1 bath,1,2,31,1,4,116
+2118,Union Station,10/15/2015,T,0.98,284,Entire home/apt,6,4 baths,3,3,31,14,5,449
+2119,Union Station,11/1/2021,T,1,1,Entire home/apt,4,1 bath,1,2,2,102,4.9,130
+2120,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,2 baths,2,2,31,1,5,175
+2121,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,5,1 bath,2,2,2,7,4.71,163
+2122,Capitol Hill,7/13/2012,T,0.99,1,Entire home/apt,3,1 bath,1,2,1,64,4.84,131
+2124,Georgetown,5/14/2012,T,0.99,3,Entire home/apt,6,1.5 baths,3,4,2,35,5,382
+2125,Capitol Hill,10/15/2015,T,0.98,284,Entire home/apt,4,1 bath,1,2,31,17,4.94,281
+2126,Capitol Hill,10/25/2021,T,0.96,7,Entire home/apt,2,1 bath,1,1,2,98,4.91,176
+2128,Union Station,9/23/2016,T,,27,Entire home/apt,6,1.5 baths,3,4,2,4,5,312
+2129,Capitol Hill,10/9/2012,T,1,1,Entire home/apt,4,1 bath,1,2,2,66,4.91,237
+2130,Dupont Circle,6/3/2017,T,0.98,7,Entire home/apt,4,1 bath,2,2,7,18,4.72,164
+2131,Georgetown,6/20/2016,T,0.88,1,Entire home/apt,4,2.5 baths,2,2,180,8,4.88,725
+2132,Capitol Hill,5/15/2014,F,1,5,Entire home/apt,2,1 bath,1,2,3,21,4.81,118
+2134,Capitol Hill,9/18/2021,F,,2,Entire home/apt,3,1 bath,1,1,31,15,4.8,85
+2135,Dupont Circle,4/6/2018,F,0.83,11,Entire home/apt,2,1 bath,1,1,31,5,4.6,95
+2137,Capitol Hill,11/18/2021,T,0.99,1,Entire home/apt,4,1 bath,1,2,2,97,4.94,159
+2138,Union Station,7/23/2014,T,0.99,4,Entire home/apt,6,2 baths,2,2,2,140,4.96,169
+2141,Union Station,11/23/2021,T,1,1,Entire home/apt,6,1.5 baths,3,3,3,51,4.8,328
+2142,Capitol Hill,8/15/2015,F,1,1,Entire home/apt,2,1.5 baths,1,1,3,8,5,275
+2143,Capitol Hill,5/11/2016,T,0.97,8,Entire home/apt,5,1.5 baths,2,3,2,20,4.7,348
+2144,Georgetown,8/13/2013,F,0.99,196,Entire home/apt,12,3 baths,6,6,7,18,4.67,618
+2145,Georgetown,11/26/2021,T,1,1,Entire home/apt,3,1 bath,1,2,2,68,4.9,140
+2146,Union Station,4/18/2015,T,,1,Entire home/apt,4,1 bath,1,3,3,27,4.93,149
+2147,Capitol Hill,12/22/2016,F,1,2,Entire home/apt,5,1 bath,2,3,2,30,5,250
+2148,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,2,29,4.59,166
+2149,Dupont Circle,12/16/2016,F,0.97,5607,Entire home/apt,2,1 bath,1,1,32,1,5,199
+2150,Shaw,4/27/2016,F,0.81,44,Entire home/apt,4,1 bath,2,2,31,2,3,108
+2154,Capitol Hill,12/30/2014,T,1,1,Entire home/apt,4,1 bath,1,2,2,100,4.88,129
+2158,Dupont Circle,10/8/2013,F,0.97,8,Entire home/apt,5,2 baths,2,2,1,46,4.8,493
+2159,Capitol Hill,3/16/2015,T,1,1,Entire home/apt,2,1 bath,1,1,1,107,5,154
+2160,Union Station,12/15/2021,F,,1,Entire home/apt,2,1 bath,1,1,31,7,4.86,300
+2161,Shaw,11/4/2014,F,0.94,3,Entire home/apt,4,1 bath,1,2,5,20,4.55,194
+2162,Shaw,7/29/2020,T,1,1,Entire home/apt,6,2 baths,2,3,2,84,4.86,240
+2163,Union Station,12/16/2016,F,0.97,5607,Entire home/apt,2,1 bath,1,1,32,1,5,151
+2164,Capitol Hill,8/24/2016,T,0.95,2,Entire home/apt,2,1 bath,1,2,3,63,4.97,85
+2166,Capitol Hill,2/8/2016,T,0.97,4,Entire home/apt,6,2 baths,3,3,2,62,4.9,371
+2167,Georgetown,10/8/2018,F,0.99,83,Entire home/apt,2,1 bath,,1,2,10,4.7,295
+2168,Georgetown,10/8/2018,F,0.99,83,Entire home/apt,2,1 bath,,1,2,23,4.04,278
+2169,Georgetown,10/8/2018,F,0.99,83,Entire home/apt,6,2 baths,2,3,2,132,4.55,544
+2170,Georgetown,10/8/2018,F,0.99,83,Entire home/apt,2,1 bath,,1,2,108,4.52,233
+2171,Georgetown,10/8/2018,F,0.99,83,Entire home/apt,4,1 bath,,2,2,192,4.56,260
+2172,Georgetown,10/8/2018,F,0.99,83,Entire home/apt,4,1 bath,1,2,2,28,4.68,308
+2173,Georgetown,10/8/2018,F,0.99,83,Entire home/apt,4,1 bath,1,2,2,35,4.43,324
+2174,Georgetown,10/8/2018,F,0.99,83,Entire home/apt,4,1 bath,1,2,2,160,4.41,263
+2175,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,4,1 bath,2,2,31,94,4.82,376
+2176,Dupont Circle,5/8/2015,F,,1,Entire home/apt,4,2 baths,2,3,31,2,5,132
+2177,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,2,1 bath,1,1,2,115,4.95,169
+2178,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,2,1 bath,,1,2,115,4.96,166
+2179,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,2,1 bath,,1,2,119,4.92,188
+2181,Capitol Hill,12/27/2021,T,1,1,Entire home/apt,6,1.5 baths,3,2,2,47,4.94,196
+2182,Capitol Hill,12/3/2020,T,1,4,Entire home/apt,5,2 baths,3,3,3,56,4.93,301
+2183,Georgetown,10/8/2018,F,0.99,83,Entire home/apt,4,1 bath,1,2,2,10,4.2,319
+2184,Capitol Hill,6/16/2015,T,1,2,Entire home/apt,4,1 bath,2,2,1,50,4.96,325
+2187,Union Station,11/30/2013,T,0.93,1,Entire home/apt,3,1 bath,1,2,4,29,4.93,145
+2188,Union Station,6/5/2014,T,,1,Entire home/apt,4,1 bath,1,3,2,72,4.83,157
+2191,Foggy Bottom,1/12/2022,T,0.99,1,Entire home/apt,4,1.5 baths,2,3,2,75,4.96,329
+2193,Capitol Hill,10/25/2021,T,0.96,7,Entire home/apt,4,1.5 baths,2,2,31,91,4.8,264
+2194,Georgetown,6/14/2015,T,1,1,Entire home/apt,8,2 baths,3,6,1,110,4.96,450
+2198,Union Station,4/7/2021,F,0.97,11,Entire home/apt,2,1 bath,1,1,3,39,4.54,93
+2199,Capitol Hill,1/20/2022,F,0.78,1,Entire home/apt,6,2.5 baths,3,3,2,23,4.91,200
+2201,Dupont Circle,2/26/2018,F,0.85,1,,2,1 bath,1,2,1,79,4.85,114
+2203,Capitol Hill,10/28/2013,T,0.99,2,Entire home/apt,3,1 bath,1,1,5,11,4.91,250
+2204,Capitol Hill,10/10/2016,T,0.98,1,Entire home/apt,4,1 bath,1,2,2,38,5,202
+2205,Capitol Hill,3/26/2016,T,0.98,1,Entire home/apt,3,1 bath,,2,2,65,4.92,141
+2207,Union Station,7/29/2015,F,0.99,339,Entire home/apt,10,4 baths,5,5,3,15,5,863
+2208,Dupont Circle,3/9/2019,T,0.98,22,Entire home/apt,2,2 baths,1,1,32,22,4.59,219
+2209,Union Station,12/26/2021,T,1,2,Entire home/apt,3,1 bath,1,1,6,13,4.77,190
+2210,Capitol Hill,1/28/2022,F,1,1,Entire home/apt,6,2.5 baths,3,3,31,2,3,140
+2211,Union Station,1/30/2022,T,1,2,Entire home/apt,4,1 bath,1,2,2,86,4.94,133
+2212,Georgetown,10/8/2018,F,0.99,83,Entire home/apt,2,1 bath,,1,2,85,4.74,216
+2214,Union Station,10/15/2015,T,0.98,284,Entire home/apt,8,4 baths,4,7,3,41,4.71,301
+2215,Capitol Hill,1/13/2022,F,1,1,Entire home/apt,4,1 bath,1,2,1,82,4.93,186
+2216,Union Station,2/9/2022,F,0.97,1,Entire home/apt,4,1 bath,1,2,2,45,4.87,116
+2220,Shaw,8/2/2021,F,1,2,Entire home/apt,3,1 bath,1,1,2,41,4.85,150
+2221,Capitol Hill,2/5/2013,F,0.95,5,Entire home/apt,2,1 bath,1,1,2,34,4.97,163
+2223,Capitol Hill,2/15/2022,T,0.97,1,Entire home/apt,2,1 bath,1,1,2,60,4.73,171
+2227,Shaw,9/21/2016,T,1,92,Entire home/apt,4,1 bath,1,2,2,22,4.64,290
+2228,Union Station,3/21/2016,T,0.99,10,Entire home/apt,8,3.5 baths,4,5,3,58,4.93,415
+2229,Capitol Hill,10/15/2018,T,0.95,2,Entire home/apt,2,1 bath,1,1,2,35,5,145
+2230,Georgetown,4/24/2015,T,0.98,4,Entire home/apt,4,2.5 baths,2,2,2,32,5,668
+2231,Union Station,8/30/2021,F,0.94,2,Entire home/apt,4,1 bath,1,1,3,9,4.33,190
+2233,Capitol Hill,2/28/2022,T,0.96,1,Entire home/apt,4,1.5 baths,2,2,2,55,4.91,274
+2234,Dupont Circle,3/6/2018,T,1,14,Private room,2,1.5 baths,1,1,1,1,5,355
+2235,Dupont Circle,3/6/2018,T,1,14,Private room,4,2 baths,2,2,1,8,5,475
+2236,Capitol Hill,2/28/2022,F,1,1,Entire home/apt,4,1 bath,1,2,3,61,4.87,181
+2237,Foggy Bottom,2/22/2021,F,0.98,6,Entire home/apt,2,1 bath,1,1,1,18,4.61,208
+2238,Foggy Bottom,2/22/2021,F,0.98,6,Entire home/apt,2,1 bath,1,1,1,63,4.6,185
+2239,Capitol Hill,10/15/2015,T,0.98,284,Entire home/apt,4,1 bath,1,2,2,42,4.69,90
+2241,Georgetown,10/15/2015,T,0.98,284,Entire home/apt,6,1.5 baths,2,3,3,31,4.68,221
+2242,Union Station,3/9/2022,F,0.94,5,Entire home/apt,2,1 bath,1,1,3,31,4.48,83
+2243,Capitol Hill,12/16/2016,F,0.97,5607,Entire home/apt,4,2 baths,2,2,32,1,2,277
+2244,Dupont Circle,10/8/2012,T,1,14,Entire home/apt,7,1 bath,3,3,2,40,4.9,418
+2247,Capitol Hill,9/9/2019,T,0.99,2,Entire home/apt,6,1 bath,2,3,2,140,4.98,332
+2248,Union Station,12/10/2014,T,1,1,Entire home/apt,4,1 bath,1,2,1,76,4.97,118
+2249,Georgetown,5/18/2009,F,0.99,164,Entire home/apt,5,2 baths,3,3,1,3,5,280
+2253,Capitol Hill,11/2/2015,F,0.97,1986,Entire home/apt,2,1 bath,1,1,31,1,5,96
+2255,Capitol Hill,7/20/2019,T,0.96,2,Entire home/apt,6,1.5 baths,2,3,1,19,4.95,188
+2256,Shaw,8/16/2020,F,0.99,4,Entire home/apt,2,1 bath,,1,1,41,4.59,115
+2257,Shaw,12/10/2016,F,1,3,Entire home/apt,5,2 baths,2,2,31,24,4.08,315
+2258,Union Station,6/30/2016,F,0.98,2,Entire home/apt,2,1 bath,1,1,2,25,4.88,124
+2259,Shaw,12/4/2012,T,0.73,1,Entire home/apt,10,3.5 baths,4,5,3,18,5,1200
+2260,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,2,31,4,4.75,89
+2261,Dupont Circle,10/8/2018,F,0.99,83,Private room,2,1 bath,,1,2,185,4.36,198
+2262,Dupont Circle,10/8/2018,F,0.99,83,Private room,2,1 bath,,1,2,99,4.19,186
+2263,Union Station,8/21/2016,T,0.99,1,Entire home/apt,2,1 bath,1,1,2,43,4.86,121
+2265,Shaw,6/17/2018,T,1,1,Entire home/apt,4,1 bath,,2,1,113,4.92,103
+2266,Shaw,6/22/2020,F,1,4,Entire home/apt,2,1 bath,1,2,1,32,4.72,148
+2267,Union Station,3/31/2022,T,1,1,Entire home/apt,10,5 baths,5,5,4,27,4.96,550
+2268,Dupont Circle,1/30/2021,T,1,8,Entire home/apt,3,1 bath,,3,30,32,4.84,103
+2269,Shaw,6/30/2016,T,1,8,Entire home/apt,4,1 bath,1,2,2,64,4.95,191
+2270,Shaw,10/15/2015,T,0.98,284,Entire home/apt,2,1 bath,,1,1,51,4.92,105
+2271,Shaw,10/28/2013,T,0.99,16,Entire home/apt,2,1 bath,1,1,31,5,4.8,109
+2272,Shaw,10/28/2013,T,0.99,16,Entire home/apt,2,1 bath,1,1,91,2,5,109
+2273,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,4,1 bath,2,2,2,66,4.71,253
+2274,Shaw,2/16/2016,T,1,1,Entire home/apt,4,1 bath,1,2,1,14,5,443
+2278,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,2,1 bath,,1,2,86,4.81,187
+2279,Capitol Hill,4/10/2016,F,0.98,1,Entire home/apt,5,1 bath,1,2,1,44,4.59,138
+2283,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,2,1 bath,,1,2,86,4.93,171
+2284,Capitol Hill,10/15/2015,T,0.98,284,Entire home/apt,6,1 bath,2,3,2,52,4.83,183
+2285,Union Station,12/27/2017,F,1,1,Entire home/apt,4,1 bath,1,2,2,2,5,263
+2286,Union Station,6/6/2016,F,1,1,Entire home/apt,4,1 bath,1,2,3,46,4.87,138
+2287,Union Station,12/16/2016,F,0.97,5607,Entire home/apt,2,1 bath,1,1,32,1,5,162
+2288,Capitol Hill,2/8/2016,T,0.97,4,Entire home/apt,4,1 bath,2,2,2,46,4.93,168
+2289,Georgetown,4/14/2022,T,1,2,Entire home/apt,3,1 bath,1,1,2,66,5,213
+2290,Union Station,7/24/2014,T,1,1,Entire home/apt,2,1 bath,1,1,2,75,4.96,118
+2291,Union Station,10/15/2015,T,0.98,284,Entire home/apt,2,1 bath,1,1,2,14,4.5,83
+2292,Shaw,8/6/2016,T,0.87,1,Entire home/apt,2,1.5 baths,1,1,2,68,5,149
+2293,Capitol Hill,6/3/2015,T,0.99,2,Entire home/apt,4,1 bath,1,2,1,53,4.89,164
+2295,Dupont Circle,8/26/2019,T,0.98,21,Entire home/apt,2,1 bath,,1,2,88,4.8,192
+2296,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,17,3.24,443
+2297,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,1 bath,2,3,2,33,3.64,315
+2300,Shaw,2/11/2019,T,1,2,Entire home/apt,8,2 baths,4,4,2,24,4.83,650
+2301,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,2 baths,2,3,2,33,4.27,329
+2302,Shaw,10/15/2015,T,0.98,284,Entire home/apt,2,1 bath,1,1,2,35,4.89,136
+2304,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,2,31,1,5,85
+2305,Capitol Hill,1/22/2016,T,1,4,Entire home/apt,6,1 bath,1,3,1,97,4.95,131
+2306,Capitol Hill,11/15/2013,F,0.85,2,Entire home/apt,2,1 bath,1,1,3,7,5,110
+2307,Foggy Bottom,12/12/2012,T,1,1,Entire home/apt,3,1 bath,1,2,3,37,4.92,175
+2308,Shaw,10/15/2015,T,0.98,284,Entire home/apt,8,5 baths,4,4,5,22,5,659
+2310,Union Station,1/27/2018,T,1,16,Entire home/apt,5,1 bath,2,3,31,16,4.69,190
+2314,Dupont Circle,6/22/2020,F,1,4,Entire home/apt,3,1 bath,1,1,31,5,4.4,100
+2315,Dupont Circle,7/10/2019,F,0.67,1,Entire home/apt,4,2.5 baths,2,2,2,13,4.85,350
+2317,Capitol Hill,1/2/2017,T,0.99,3,Entire home/apt,6,2 baths,2,2,1,6,4.83,167
+2318,Union Station,1/2/2017,T,0.99,3,Entire home/apt,10,2.5 baths,3,5,1,92,4.82,246
+2326,Capitol Hill,1/9/2018,T,0.98,1,Entire home/apt,2,1 bath,1,1,2,39,4.97,138
+2327,Dupont Circle,10/8/2012,T,1,14,Entire home/apt,4,1 bath,1,2,2,29,4.86,168
+2328,Shaw,6/22/2020,F,1,4,Private room,1,1 private bath,,1,1,17,4.82,180
+2330,Capitol Hill,2/8/2016,T,0.97,4,Entire home/apt,2,1 bath,1,1,2,28,4.96,87
+2332,Dupont Circle,10/15/2015,T,0.98,284,Entire home/apt,2,1 bath,1,1,3,34,4.91,148
+2333,Dupont Circle,10/15/2015,T,0.98,284,Entire home/apt,4,1 bath,1,2,2,45,4.71,120
+2334,Capitol Hill,5/24/2022,T,1,1,Entire home/apt,2,1 bath,1,1,2,59,4.95,134
+2335,Dupont Circle,10/8/2012,T,1,14,Entire home/apt,10,2 baths,4,6,2,31,5,602
+2337,Shaw,4/23/2014,T,0.92,3,Entire home/apt,5,1 bath,2,2,2,54,4.85,220
+2338,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,1,2,33,4.06,199
+2339,Shaw,11/2/2015,F,0.97,1986,Entire home/apt,4,2.5 baths,2,2,31,1,5,182
+2340,Union Station,4/25/2015,T,0.99,1,Entire home/apt,3,1 bath,1,2,3,33,5,141
+2341,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,1,2,49,3.94,199
+2343,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,1 bath,2,3,2,21,4.29,315
+2344,Union Station,8/27/2014,T,1,4,Entire home/apt,6,1.5 baths,1,3,2,62,4.98,226
+2345,Dupont Circle,1/13/2013,T,1,1,Entire home/apt,4,1 bath,1,2,3,22,5,215
+2346,Capitol Hill,10/15/2015,T,0.98,284,Entire home/apt,4,1 bath,1,2,2,44,4.91,126
+2347,Shaw,5/16/2022,F,0.84,8,Entire home/apt,4,1 bath,2,2,1,26,4.88,139
+2348,Dupont Circle,4/10/2017,F,0.5,2,Entire home/apt,4,2 baths,2,2,31,1,5,155
+2349,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,7,4 baths,3,5,2,8,5,595
+2350,Union Station,5/16/2022,F,0.84,8,Entire home/apt,12,3.5 baths,6,6,1,1,5,660
+2351,Georgetown,7/19/2017,F,0.64,6,Entire home/apt,5,1 bath,3,3,7,1,5,239
+2352,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,4,1 bath,2,2,31,6,4.83,399
+2354,Union Station,10/21/2014,T,1,1,Entire home/apt,6,1.5 baths,2,3,2,49,4.96,257
+2356,Foggy Bottom,6/11/2022,T,0.97,2,Entire home/apt,5,2.5 baths,2,4,2,21,5,527
+2357,Capitol Hill,1/15/2016,F,,1,Entire home/apt,4,1 bath,1,2,2,52,4.87,121
+2358,Union Station,7/9/2012,F,0.67,1,Entire home/apt,3,1 bath,1,2,1,22,4.95,120
+2359,Capitol Hill,10/24/2017,T,0.98,1,Entire home/apt,4,1 bath,1,2,1,68,4.94,184
+2361,Union Station,12/16/2016,F,0.97,5607,Entire home/apt,2,1 bath,1,1,32,1,5,158
+2362,Union Station,12/23/2014,F,0.99,2244,Private room,2,1 bath,1,1,1,4,5,322
+2364,Union Station,10/25/2016,T,0.94,1,Entire home/apt,3,1 bath,1,1,2,26,4.96,101
+2365,Shaw,1/25/2016,T,1,1,Entire home/apt,2,1 bath,1,1,2,42,4.88,200
+2366,Union Station,6/25/2022,T,0.97,1,Entire home/apt,2,1 bath,1,1,3,28,4.79,145
+2369,Capitol Hill,6/27/2022,T,1,1,Entire home/apt,4,1 bath,1,2,2,80,4.93,149
+2370,Dupont Circle,1/20/2015,T,0.99,1,Entire home/apt,2,1 bath,1,1,2,68,5,139
+2371,Union Station,6/27/2022,F,1,2,Entire home/apt,5,1.5 baths,2,3,2,11,4.45,203
+2373,Union Station,6/29/2022,T,0.98,3,Entire home/apt,4,1 bath,1,2,2,49,4.94,203
+2374,Union Station,12/16/2016,F,0.97,5607,Entire home/apt,2,1 bath,1,1,32,1,5,143
+2377,Capitol Hill,11/2/2015,F,0.97,1986,Entire home/apt,2,1 bath,1,1,31,2,4,143
+2378,Capitol Hill,2/10/2018,F,0.98,3,Entire home/apt,2,1 bath,1,1,1,20,5,93
+2380,Shaw,6/30/2016,T,1,8,Entire home/apt,6,1.5 baths,2,2,2,58,4.91,277
+2381,Capitol Hill,10/5/2013,T,1,1,Entire home/apt,4,1 bath,1,2,2,36,4.92,177
+2382,Georgetown,9/20/2014,T,1,16,Entire home/apt,3,1 bath,1,2,31,78,4.85,155
+2383,Georgetown,9/20/2014,T,1,16,Entire home/apt,5,1 bath,2,3,1,91,4.89,185
+2384,Georgetown,9/20/2014,T,1,16,Entire home/apt,5,1 bath,2,3,1,102,4.85,198
+2385,Dupont Circle,7/26/2013,F,1,2,,2,1 bath,1,1,183,2,5,111
+2386,Georgetown,3/17/2020,F,0.97,2,Entire home/apt,4,2 baths,2,2,4,41,4.76,185
+2389,Georgetown,7/19/2017,F,0.64,6,Entire home/apt,3,1 bath,1,4,7,6,5,198
+2391,Georgetown,9/20/2014,T,1,16,Entire home/apt,5,1 bath,2,3,31,80,4.96,185
+2393,Union Station,11/7/2010,F,1,3,Entire home/apt,7,2.5 baths,4,5,5,1,5,350
+2398,Georgetown,3/19/2013,F,,1,Entire home/apt,2,1 bath,1,1,2,47,4.94,177
+2401,Georgetown,10/15/2015,T,0.98,284,Entire home/apt,5,3 baths,3,4,31,2,5,718
+2403,Shaw,8/13/2013,F,0.99,196,Entire home/apt,4,2.5 baths,2,2,4,20,4.8,370
+2404,Shaw,5/14/2019,T,1,2,Entire home/apt,6,1.5 baths,2,4,2,62,5,271
+2405,Union Station,12/29/2011,T,0.98,1,Entire home/apt,4,2.5 baths,2,3,3,74,4.96,299
+2406,Dupont Circle,10/15/2015,T,0.98,284,Entire home/apt,8,2 baths,4,4,3,26,4.65,502
+2407,Shaw,2/11/2019,T,1,2,Entire home/apt,3,1 bath,1,1,2,17,4.65,153
+2408,Shaw,3/18/2017,T,1,5,Entire home/apt,10,3.5 baths,3,4,3,21,5,482
+2409,Capitol Hill,4/7/2021,F,0.97,11,Entire home/apt,8,1.5 baths,3,5,3,2,4.5,564
+2410,Georgetown,9/20/2014,T,1,16,Entire home/apt,5,1 bath,2,3,31,86,4.9,184
+2411,Shaw,4/5/2022,F,1,1,Entire home/apt,4,1 bath,1,1,2,40,4.43,126
+2412,Union Station,5/6/2013,F,1,1,Entire home/apt,4,1 bath,1,2,2,18,4.94,130
+2415,Union Station,6/8/2014,F,0.41,5,Entire home/apt,2,1 bath,1,1,1,30,4.67,229
+2416,Shaw,5/3/2016,T,1,3,Entire home/apt,6,2 baths,3,4,2,41,4.9,359
+2417,Foggy Bottom,8/13/2013,F,0.99,196,Entire home/apt,4,2 baths,2,2,4,17,4.76,250
+2420,Union Station,7/9/2012,T,1,3,Entire home/apt,4,1 bath,2,2,31,1,5,102
+2422,Shaw,5/17/2021,T,0.99,2,Entire home/apt,3,1 bath,1,2,2,25,4.84,212
+2423,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,1,5,179
+2424,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,9,4,179
+2425,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,1 bath,2,3,1,1,5,270
+2426,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,1 bath,2,3,1,1,1,270
+2427,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,2 baths,2,3,1,3,4.67,315
+2428,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,2 baths,2,3,1,19,4.58,315
+2430,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,2,2,1,20,4.8,302
+2431,Union Station,7/17/2014,T,1,1,Entire home/apt,4,1 bath,1,2,2,52,5,164
+2433,Georgetown,9/15/2018,F,0.97,64,Private room,4,1 private bath,1,2,1,4,2,193
+2434,Union Station,4/18/2018,F,0.75,5,Entire home/apt,8,2.5 baths,3,2,31,1,5,200
+2435,Foggy Bottom,9/15/2018,F,0.97,64,Private room,2,1 private bath,1,1,1,2,3,188
+2436,Georgetown,8/26/2022,F,0.7,1,Entire home/apt,6,1.5 baths,3,3,3,7,4.86,657
+2437,Georgetown,4/14/2022,T,1,2,Entire home/apt,3,1 bath,,1,2,18,5,199
+2438,Dupont Circle,4/6/2011,T,0.99,193,Entire home/apt,2,1 bath,1,1,1,41,4.63,185
+2440,Georgetown,3/4/2017,T,1,3,Entire home/apt,6,1 bath,2,2,1,39,4.72,233
+2445,Capitol Hill,5/18/2009,F,0.99,164,Entire home/apt,6,2.5 baths,3,4,1,7,5,294
+2446,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,52,4.15,170
+2447,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,1,5,179
+2448,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,2 baths,2,3,1,1,5,315
+2450,Union Station,5/9/2016,F,1,1,Entire home/apt,3,1 bath,1,2,2,4,5,85
+2451,Shaw,5/14/2019,T,1,2,Entire home/apt,4,1 bath,1,2,2,36,4.97,121
+2455,Shaw,7/14/2022,F,1,40,Entire home/apt,6,1 bath,2,2,1,8,4.25,249
+2459,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,17,4.82,269
+2461,Union Station,4/6/2011,T,0.99,193,Entire home/apt,4,1 bath,2,2,2,38,4.92,187
+2462,Dupont Circle,6/17/2016,F,1,1,Entire home/apt,4,1 bath,1,2,2,2,4.5,286
+2463,Capitol Hill,10/15/2015,T,0.98,284,Entire home/apt,4,1 bath,1,3,31,1,5,200
+2464,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,2 baths,2,3,31,90,4.4,315
+2466,Union Station,9/30/2016,F,1,1,Entire home/apt,2,1 bath,1,1,2,11,5,121
+2467,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,10,4.7,170
+2468,Shaw,5/3/2016,T,1,3,Entire home/apt,6,2 baths,3,4,2,21,4.95,446
+2469,Shaw,12/31/2015,F,0.97,1,Entire home/apt,2,1 bath,1,1,2,35,4.97,138
+2470,Union Station,10/1/2022,T,0.97,1,Entire home/apt,4,1 bath,1,1,2,50,5,115
+2471,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,2,5,179
+2474,Union Station,6/2/2015,T,0.95,1,Entire home/apt,3,1 bath,1,1,2,29,4.93,198
+2475,Union Station,6/5/2013,T,1,1,Entire home/apt,4,2 baths,2,2,2,27,5,200
+2477,Shaw,10/9/2022,F,0.99,2,Entire home/apt,5,2.5 baths,2,2,3,19,5,251
+2478,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,2,6,4.83,525
+2479,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,2,1,4,223
+2482,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,24,4.71,150
+2483,Dupont Circle,4/6/2011,T,0.99,193,Entire home/apt,6,2.5 baths,3,3,2,20,4.65,368
+2484,Shaw,5/16/2022,F,0.84,8,Entire home/apt,8,2 baths,4,4,1,13,4.85,271
+2485,Union Station,12/27/2015,T,0.92,1,Entire home/apt,4,1 bath,1,1,2,32,4.94,148
+2487,Shaw,1/16/2020,T,0.97,2,Entire home/apt,4,1 bath,1,2,2,36,5,248
+2489,Shaw,11/2/2015,F,0.97,1986,Entire home/apt,2,1 bath,1,1,31,1,5,127
+2491,Dupont Circle,5/18/2015,T,0.99,5,Entire home/apt,6,1 bath,2,3,2,21,4.95,226
+2492,Dupont Circle,5/18/2015,T,0.99,5,Entire home/apt,10,2.5 baths,4,7,2,26,5,686
+2493,Dupont Circle,6/28/2012,F,1,3,Entire home/apt,2,1 bath,,1,1,11,4.82,115
+2494,Capitol Hill,1/6/2016,T,1,2,Entire home/apt,4,1 bath,2,2,5,1,5,250
+2495,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,2,7,4.14,195
+2496,Union Station,10/15/2015,T,0.98,284,Entire home/apt,7,2.5 baths,4,5,2,21,4.71,212
+2497,Georgetown,11/8/2022,T,0.99,1,Entire home/apt,3,1 bath,1,2,2,38,4.89,235
+2500,Shaw,10/9/2022,F,0.99,2,Entire home/apt,4,1 bath,1,2,3,26,4.77,155
+2501,Shaw,10/15/2015,T,0.98,284,Entire home/apt,6,1 bath,2,3,3,24,4.88,204
+2502,Union Station,6/27/2022,F,1,2,Entire home/apt,5,1.5 baths,2,3,2,8,4.5,240
+2504,Union Station,7/11/2022,F,0.99,2,Entire home/apt,7,2 baths,2,3,2,9,3.89,193
+2510,Foggy Bottom,8/13/2013,F,0.99,196,Entire home/apt,4,2 baths,2,2,4,11,4.55,335
+2512,Union Station,11/27/2022,F,0.99,17,Entire home/apt,3,1 bath,1,1,2,13,4.54,185
+2514,Capitol Hill,12/7/2014,T,1,3,Entire home/apt,4,1.5 baths,2,2,3,30,4.83,160
+2516,Capitol Hill,5/15/2014,F,1,5,Entire home/apt,5,2.5 baths,3,4,4,14,5,305
+2517,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,2,31,1,4,95
+2518,Capitol Hill,1/27/2014,F,0.98,109,Entire home/apt,6,3.5 baths,2,3,1,28,4.75,296
+2520,Foggy Bottom,5/3/2020,F,0.75,2,Entire home/apt,3,1 bath,1,1,1,1,5,200
+2521,Capitol Hill,6/27/2017,F,1,1,Entire home/apt,6,1.5 baths,3,3,2,21,4.95,401
+2522,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,31,3,4,195
+2523,Union Station,4/6/2011,T,0.99,193,Entire home/apt,8,3.5 baths,3,4,2,13,4.77,519
+2525,Dupont Circle,5/2/2016,T,0.88,2,Entire home/apt,8,2.5 baths,3,6,1,28,5,550
+2526,Dupont Circle,5/2/2016,T,0.88,2,Entire home/apt,4,1 bath,1,3,1,1,5,200
+2529,Shaw,9/15/2009,F,0.89,4,Entire home/apt,4,1 bath,1,1,31,1,5,120
+2531,Union Station,10/15/2015,T,0.98,284,Entire home/apt,4,1 bath,1,2,31,15,5,102
+2532,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,1,31,1,2,80
+2533,Georgetown,10/15/2015,T,0.98,284,Entire home/apt,7,3.5 baths,4,4,3,13,5,657
+2534,Union Station,7/11/2017,F,0.91,2,Entire home/apt,2,1.5 baths,1,1,3,11,4.91,189
+2535,Shaw,12/15/2022,T,1,1,Entire home/apt,3,1 bath,1,2,2,13,5,167
+2536,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,31,47,4.43,179
+2537,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,1,4,179
+2538,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,1,1,187
+2539,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,31,15,4.53,187
+2541,Georgetown,12/19/2022,F,0.94,1,Entire home/apt,3,1 bath,1,2,2,22,5,256
+2546,Dupont Circle,6/8/2015,T,0.98,3,Entire home/apt,2,1 bath,,2,31,20,4.65,110
+2547,Union Station,11/27/2022,F,0.99,17,Entire home/apt,4,2.5 baths,2,2,1,22,4.27,205
+2548,Union Station,12/20/2022,T,1,1,Entire home/apt,3,1 bath,1,1,2,25,4.88,111
+2549,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,2,31,1,5,90
+2550,Dupont Circle,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,1,31,1,5,90
+2553,Union Station,4/27/2016,F,0.81,44,Entire home/apt,2,1 bath,1,1,31,1,4,90
+2554,Union Station,4/30/2018,F,0.99,11,Entire home/apt,2,1 bath,1,1,1,22,4.41,107
+2555,Union Station,4/30/2018,F,0.99,11,Entire home/apt,3,1 bath,1,1,1,23,4.17,115
+2556,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,,2,2,18,4.89,229
+2557,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,1 bath,1,2,2,20,4.8,142
+2558,Union Station,8/27/2014,T,1,4,Entire home/apt,6,3 baths,3,4,3,20,4.95,351
+2561,Union Station,10/19/2014,T,0.97,7,Entire home/apt,7,2 baths,2,4,1,4,5,394
+2565,Union Station,9/2/2013,F,1,14,Entire home/apt,8,2.5 baths,3,4,2,19,5,375
+2568,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,2,1,5,195
+2569,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,2,2,4,195
+2570,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,1,2,1,5,199
+2571,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,1,2,1,4,199
+2572,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,1 bath,2,3,2,2,2,315
+2573,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,2 baths,2,3,2,1,3,329
+2574,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,2 baths,2,3,2,1,5,329
+2576,Shaw,7/14/2022,F,1,40,Entire home/apt,6,1 bath,2,2,1,10,4.5,269
+2577,Shaw,7/14/2022,F,1,40,Entire home/apt,6,1 bath,2,2,1,12,4.25,259
+2578,Capitol Hill,1/16/2023,T,1,1,Entire home/apt,4,1 bath,1,2,2,24,5,193
+2582,Shaw,2/24/2020,T,0.99,6,Entire home/apt,4,2 baths,1,2,2,15,4.93,400
+2583,Capitol Hill,12/14/2016,F,,1,Entire home/apt,3,1 bath,1,2,4,7,4.57,130
+2585,Georgetown,8/17/2011,F,1,1,Entire home/apt,3,1 bath,1,2,3,2,5,150
+2586,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,11,4.91,98
+2587,Shaw,3/18/2017,T,1,5,Entire home/apt,12,5 baths,4,5,3,10,5,549
+2588,Union Station,1/29/2023,F,1,1,Entire home/apt,4,1 bath,1,2,2,18,5,110
+2589,Union Station,9/5/2016,F,1,2,Entire home/apt,2,1 bath,,1,1,2,5,95
+2591,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,17,4.41,170
+2592,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,8,4.5,170
+2593,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,3,4.33,179
+2594,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,2,4.5,179
+2595,Shaw,7/29/2016,T,1,3,Entire home/apt,4,2 baths,2,2,31,1,5,203
+2596,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,2,3,179
+2597,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,10,4.6,179
+2598,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,7,4,179
+2602,Union Station,2/3/2023,F,1,1,Entire home/apt,4,1 bath,1,2,2,16,4.94,175
+2605,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,2 baths,2,3,1,6,4.83,315
+2606,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,2 baths,2,3,1,2,5,315
+2607,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,2 baths,2,3,1,5,4.2,315
+2608,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,2 baths,2,3,1,2,5,315
+2609,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,2 baths,2,3,1,3,4.33,315
+2610,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,8,4.5,170
+2612,Capitol Hill,5/24/2018,F,1,1,Entire home/apt,4,1 bath,1,2,3,21,5,175
+2614,Capitol Hill,8/18/2017,F,0.76,51,Shared room,5,1 shared bath,,6,1,5,4.6,34
+2618,Capitol Hill,8/5/2019,F,0.91,1,Entire home/apt,2,1 bath,1,1,2,11,4.91,125
+2619,Union Station,1/5/2016,F,0.98,30,Entire home/apt,8,2 baths,3,4,1,12,4.83,204
+2620,Union Station,2/20/2023,F,0.98,1,Entire home/apt,6,2 baths,3,3,2,16,4.56,253
+2623,Capitol Hill,12/20/2015,F,,9,Entire home/apt,2,1 bath,1,1,3,4,5,150
+2624,Dupont Circle,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,2,4.5,231
+2625,Capitol Hill,2/5/2013,F,0.95,5,Entire home/apt,4,2.5 baths,2,2,4,2,5,571
+2626,Union Station,8/3/2016,F,1,1,Entire home/apt,4,1 bath,1,1,2,16,5,159
+2627,Georgetown,10/24/2014,F,0.99,3,Entire home/apt,6,2.5 baths,2,2,3,8,4.75,400
+2628,Georgetown,10/24/2014,F,0.99,3,Entire home/apt,6,2.5 baths,2,2,3,6,4.67,400
+2629,Union Station,3/24/2017,F,0.99,1894,Entire home/apt,9,3 baths,4,5,2,12,4.67,429
+2631,Capitol Hill,12/6/2017,T,1,2,Entire home/apt,4,1.5 baths,2,3,1,19,4.95,145
+2632,Georgetown,2/4/2017,F,1,21,Entire home/apt,10,3 baths,5,4,3,5,4.4,529
+2635,Union Station,7/24/2016,F,1,1,Entire home/apt,2,1 bath,1,1,2,14,5,99
+2636,Union Station,9/16/2016,F,0.92,444,Entire home/apt,3,1 bath,1,2,1,1,4,221
+2637,Union Station,10/14/2013,F,0.95,513,,5,2 baths,2,3,1,2,3,350
+2638,Union Station,12/19/2017,F,0.99,271,,5,2 baths,2,3,1,1,2,408
+2639,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,4,4.25,170
+2640,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,16,4.31,170
+2641,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,1,4,170
+2642,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,3,5,170
+2643,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,2,5,179
+2644,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,3,1 bath,1,2,1,1,5,179
+2645,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,2 baths,2,3,1,4,4.5,315
+2646,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,2 baths,2,3,1,1,5,315
+2647,Union Station,6/27/2012,T,0.99,11,Entire home/apt,6,1 bath,2,3,2,8,4.75,197
+2648,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,4,2.5 baths,2,2,2,5,4.6,482
+2650,Dupont Circle,10/15/2015,T,0.98,284,Entire home/apt,6,1 bath,2,4,3,6,5,148
+2651,Dupont Circle,9/10/2015,F,0.96,14,Entire home/apt,2,1 bath,1,1,2,5,4.8,200
+2652,Capitol Hill,10/15/2015,T,0.98,284,Entire home/apt,7,2 baths,2,4,3,10,4.9,208
+2653,Union Station,3/16/2023,F,0.91,1,Entire home/apt,3,1.5 baths,1,1,2,5,4.6,161
+2655,Union Station,3/24/2017,F,0.99,1894,Entire home/apt,5,1 bath,1,3,2,8,4.75,91
+2657,Dupont Circle,10/15/2015,T,0.98,284,Entire home/apt,4,1 bath,1,2,2,10,5,132
+2658,Union Station,3/23/2023,F,0.98,2,Entire home/apt,8,3 baths,5,5,3,10,4.9,439
+2660,Union Station,4/7/2021,F,0.97,11,Entire home/apt,6,2 baths,2,2,3,5,4.8,173
+2664,Union Station,10/14/2013,F,0.95,513,Entire home/apt,3,1 bath,1,2,1,2,5,199
+2665,Union Station,10/14/2013,F,0.95,513,Entire home/apt,5,2 baths,2,3,1,1,5,350
+2666,Union Station,10/14/2013,F,0.95,513,Entire home/apt,5,1 bath,2,3,1,1,5,300
+2667,Union Station,9/16/2016,F,0.92,444,Entire home/apt,3,1 bath,1,1,2,2,4,232
+2668,Union Station,9/16/2016,F,0.92,444,Entire home/apt,5,2 baths,2,3,2,2,4.5,382
+2669,Union Station,9/16/2016,F,0.92,444,Entire home/apt,5,2 baths,2,3,2,3,5,382
+2670,Union Station,9/16/2016,F,0.92,444,Entire home/apt,5,1 bath,2,3,2,1,2,366
+2671,Union Station,10/14/2013,F,0.95,513,Entire home/apt,3,1 bath,1,1,2,2,5,199
+2672,Union Station,10/14/2013,F,0.95,513,Entire home/apt,5,2 baths,2,3,2,1,3,329
+2673,Union Station,10/14/2013,F,0.95,513,Entire home/apt,5,2 baths,2,3,2,1,4,329
+2674,Union Station,10/14/2013,F,0.95,513,Entire home/apt,5,1 bath,2,3,2,1,4,315
+2675,Union Station,10/14/2013,F,0.95,513,Entire home/apt,5,1 bath,2,3,2,2,3.5,315
+2676,Union Station,3/30/2015,F,0.98,1025,Entire home/apt,5,1 bath,2,3,2,12,4.67,315
+2677,Union Station,11/11/2021,F,0.79,1,Entire home/apt,4,1 bath,2,2,2,13,4.85,195
+2678,Shaw,10/7/2015,F,1,1,Entire home/apt,2,1 bath,1,1,3,2,5,250
+2679,Shaw,10/15/2015,T,0.98,284,Entire home/apt,4,1 bath,1,2,3,5,5,128
+2680,Union Station,5/25/2015,F,0.97,2,Entire home/apt,2,1 bath,1,1,1,8,4.75,99
+2682,Union Station,10/15/2015,T,0.98,284,Entire home/apt,4,1 bath,1,2,2,3,5,145
+2686,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,5,4.6,154
+2687,Shaw,8/13/2013,F,0.99,196,Entire home/apt,5,2.5 baths,2,2,7,1,5,343
+2688,Capitol Hill,6/15/2020,F,1,2,Entire home/apt,8,2.5 baths,2,6,4,1,5,190
+2689,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,2,1 bath,1,1,31,1,5,157
+2690,Shaw,4/23/2014,T,0.92,3,Entire home/apt,4,1 bath,1,2,2,3,4.67,195
+2691,Dupont Circle,4/6/2011,T,0.99,193,Entire home/apt,4,1 bath,2,2,2,4,5,216
+2692,Union Station,5/7/2019,T,0.98,17,Entire home/apt,14,4 baths,6,6,1,4,5,463
+2693,Foggy Bottom,3/5/2016,T,0.96,3,Entire home/apt,2,1 bath,1,1,1,6,5,269
+2694,Shaw,10/15/2015,T,0.98,284,Entire home/apt,4,2 baths,2,2,3,6,4.5,201
+2695,Capitol Hill,4/17/2023,F,1,3,Entire home/apt,7,2 baths,3,4,2,13,4.46,309
+2696,Capitol Hill,4/17/2023,F,1,3,Entire home/apt,5,2 baths,2,3,2,4,4,273
+2697,Union Station,5/7/2019,T,0.98,17,Entire home/apt,14,4 baths,6,7,1,9,4.89,613
+2701,Georgetown,10/24/2014,F,0.99,3,Entire home/apt,6,2.5 baths,2,4,3,2,3.5,400
+2702,Georgetown,1/10/2022,T,1,4,Entire home/apt,3,1 bath,1,1,1,1,5,342
+2707,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,5,5,165
+2708,Dupont Circle,4/26/2023,F,1,285,Entire home/apt,2,1.5 baths,1,1,31,1,5,251
+2709,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,4,1 bath,2,2,31,4,3,204
+2710,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,4,2 baths,2,2,31,2,5,215
+2711,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,5,5,153
+2712,Shaw,4/26/2023,F,1,285,Entire home/apt,4,2 baths,2,2,31,1,5,276
+2713,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,3,5,135
+2714,Capitol Hill,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,1,5,148
+2715,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,2,5,132
+2716,Shaw,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,4,5,177
+2717,Capitol Hill,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,4,4.75,155
+2718,Shaw,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,2,5,190
+2719,Shaw,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,1,5,196
+2720,Shaw,4/26/2023,F,1,285,Entire home/apt,4,2 baths,2,2,31,1,5,295
+2721,Dupont Circle,4/26/2023,F,1,285,Entire home/apt,4,2 baths,2,2,31,1,5,299
+2722,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,2,5,149
+2723,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,6,4.83,132
+2724,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,6,4.67,132
+2725,Georgetown,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,1,5,173
+2726,Dupont Circle,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,2,5,168
+2727,Shaw,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,4,5,239
+2728,Union Station,4/26/2023,F,1,285,Entire home/apt,2,1.5 baths,1,1,31,5,5,151
+2729,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,1,5,133
+2730,Capitol Hill,4/26/2023,F,1,285,Entire home/apt,4,2 baths,2,2,31,1,5,239
+2731,Union Station,4/26/2023,F,1,285,Entire home/apt,2,1.5 baths,1,1,31,10,5,142
+2732,Shaw,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,2,5,204
+2734,Capitol Hill,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,1,5,146
+2735,Shaw,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,4,5,196
+2736,Capitol Hill,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,1,5,140
+2737,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,2,5,132
+2739,Shaw,4/26/2023,F,1,285,Entire home/apt,4,2 baths,2,2,31,2,5,273
+2741,Shaw,4/26/2023,F,1,285,Entire home/apt,4,1.5 baths,2,2,31,1,5,306
+2742,Dupont Circle,4/26/2023,F,1,285,Entire home/apt,4,1 bath,2,2,31,3,5,195
+2743,Union Station,4/26/2023,F,1,285,Entire home/apt,4,2 baths,2,2,31,3,5,196
+2744,Union Station,4/26/2023,F,1,285,Entire home/apt,6,2 baths,3,3,31,4,5,259
+2746,Capitol Hill,4/26/2023,F,1,285,Entire home/apt,4,2 baths,2,2,31,1,5,207
+2747,Union Station,4/26/2023,F,1,285,Entire home/apt,4,2 baths,2,2,31,3,5,190
+2748,Capitol Hill,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,1,5,162
+2749,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,8,4.88,136
+2751,Shaw,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,7,4.86,189
+2752,Shaw,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,6,4.83,199
+2753,Shaw,4/26/2023,F,1,285,Entire home/apt,4,2 baths,2,2,31,5,5,252
+2754,Shaw,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,5,4.8,223
+2755,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,4,4.75,135
+2756,Shaw,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,4,4.75,230
+2757,Union Station,4/26/2023,F,1,285,Entire home/apt,2,1.5 baths,1,1,31,7,4.71,152
+2758,Shaw,4/26/2023,F,1,285,Entire home/apt,4,2 baths,2,2,31,3,4.67,249
+2760,Shaw,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,7,4.71,196
+2762,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,2,4.5,151
+2763,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,2,1 bath,,1,31,2,4.5,137
+2764,Dupont Circle,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,4,4.5,164
+2766,Foggy Bottom,4/26/2023,F,1,285,Entire home/apt,2,1 bath,1,1,31,3,4.33,138
+2768,Union Station,9/29/2021,T,0.97,2,Entire home/apt,5,2 baths,3,3,3,2,5,345
+2769,Shaw,4/23/2016,F,1,1,Entire home/apt,2,1 bath,1,1,3,1,5,158
+2771,Georgetown,3/24/2017,F,0.99,1894,Entire home/apt,6,1.5 baths,3,3,2,2,5,197
+2775,Union Station,1/5/2016,F,0.98,30,Entire home/apt,8,2 baths,2,3,1,2,5,181
+2776,Capitol Hill,4/26/2023,F,0.96,35,Entire home/apt,3,1 bath,1,1,1,1,3,122
+2781,Dupont Circle,10/24/2019,F,0.99,10,Entire home/apt,2,1 bath,1,1,1,2,4,210
+2782,Union Station,2/9/2016,F,,1,Entire home/apt,4,1 bath,1,2,1,1,5,103
+2783,Union Station,5/19/2014,F,1,1,Entire home/apt,2,1 bath,1,1,2,2,5,98
+2784,Capitol Hill,7/29/2015,F,0.99,339,Entire home/apt,3,1 bath,1,2,31,1,5,198
+2785,Union Station,7/30/2017,F,1,2,Entire home/apt,3,1 bath,1,1,2,1,5,90
+2786,Union Station,4/30/2018,F,0.99,11,Entire home/apt,4,1 bath,2,2,1,1,5,97
+2787,Shaw,5/29/2023,F,1,1,Entire home/apt,4,1 bath,2,3,31,1,4,200
+2788,Union Station,8/6/2020,T,1,21,Entire home/apt,7,2.5 baths,3,4,2,3,5,301
+2790,Union Station,4/6/2011,T,0.99,193,Entire home/apt,4,1 bath,1,2,2,2,5,201
